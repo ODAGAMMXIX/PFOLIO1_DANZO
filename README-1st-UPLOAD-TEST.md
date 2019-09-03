@@ -1,6 +1,8 @@
 # Projeto Web Bot
 1.	Título: Mapeador de Criminalidade ao Redor da FATEC.
+
 2.	Objetivo: Raspagem de dados para demonstração da situação atual e tendência dos índices de criminalidade num raio de _km da Faculdade de Tecnologia de São Paulo – Prof. Jessen Vidal.
+
 3.	Parte 01 - MVP – MINIMUM VIABLE PRODUCT.
 O MVP é (...).
 No caso desse projeto, as funcionalidades consideradas são:
@@ -8,8 +10,48 @@ No caso desse projeto, as funcionalidades consideradas são:
 - Demonstração Gráfica da Situação atual, imediatamente após cada execução do BOT.
 - Cálculo da tendência do crime;
 - Demonstração Gráfica da tendência encontrada (linha, barras, spots);
+
+
 4.	Parte 02 - JUSTIFICATIVAS.
 a.	Por que e como será utilizada metodologia SCRUM?
+
+# by Caroline Sousa
+Metodologia Scrum:
+
+Scrum é um framework estrutural que está sendo usado para gerenciar o trabalho em produtos complexos desde o início de 1990. O termo “scrum” vem do meio esportivo: no jogo de rugby este termo refere-se ao reinício da partida  após uma infração leve. É composta por ciclos de atividades programadas — os sprints —, com planejamento de tarefas e datas de início e fim determinados.
+Um framework no qual pessoas podem solucionar problemas complexos e  adaptativos,  enquanto  criam de forma produtiva  agregando  o  mais  alto valor possível. 
+
+
+Ferramentas de Scrum
+
+•	Sprints
+
+No Scrum, o trabalho é realizado em iterações ou ciclos de até um mês, chamado de Sprints. Durante o planejamento do sprint, a equipe de desenvolvimento e o product owner devem chegar a um acordo sobre qual o Objetivo do Sprint. Com este objetivo traçado, determinam quais os itens do backlog devem ser priorizados para serem executados neste Sprint.
+
+•	Daily Scrum
+
+Todos os dias, idealmente no mesmo horário, os membros da equipe devem realizar uma reunião (15 minutos ou menos), chamado Daily Scrum. Comumente nesta reunião o Scrum Master irá perguntar para cada membro da equipe essas três perguntas:
+
+1.	O que fiz ontem que ajudou o time a atingir a meta do sprint?
+2.	O que vou fazer hoje para ajudar o time a atingir a meta do sprint?
+3.	Existe algum impedimento/dificuldade que não permita a mim ou ao time atingir a meta do sprint?
+
+•	Mostrar o trabalho de forma visual usando o quadro Kanban	 Scrum: 
+Em geral, perde-se muito tempo  em reuniões com apontamentos sobre o que está sendo feito, o que foi concluído e o que está parado. Uma maneira mais simples de resolver isso é criar um registro visual para demonstrar o curso das tarefas. Para isso, o quadro Kanban Scrum é a ferramenta ideal. Basta criar um quadro com todas as atividades (e o status de cada uma) e colocá-lo onde todos possam ver. Assim, não é preciso perder tempo falando, as pessoas já saberão sobre o status do projeto apenas observando. 
+
+Dinâmica do Scrum
+Tudo começa com a visão do produto final, que é determinado pelo product owner, pode ser através de um business case, por exemplo, ou qualquer outra visão macro do produto. Em seguida isso será desmembrado em todas as funcionalidades necessárias, que é chamada de product backlog. Essas funcionalidades serão organizadas por ordem de prioridade:
+ 
+Assim como outros métodos com um enfoque semelhante, a proposta do Scrum é prover contribuição para o gerenciamento de atividades intricadas, porém de maneira flexível e que promova a adaptação do projeto diante das inevitáveis alterações. São três as idéias  principais em que o método Scrum se ampara:
+•	Transparência
+•	Inspeção
+•	Adaptação
+A noção de transparência deve ser compreendida como a existência de uma concordância mútua entre todos os participantes do projeto, regras que caracterizam processos e andamento dentre outros. 
+Outro ponto importante é a inspeção do que está sendo feito. A verificação contínua do que é produzido, seja nas reuniões diárias ou no sprint review é fator determinante para que se tenha a certeza de que o projeto caminha dentro do prazo estipulado, bem como para diagnosticar desvios indesejáveis e atuar de forma corretiva sobre estes últimos.
+E por fim a adaptação vai de encontro a um dos principais objetivos dos métodos ágeis: a flexibilidade para mudanças. O produto que está sendo construído durante o projeto não raro sofre mutações.  Desde que preservados os valores e práticas, pode-se adaptar os processos de scrum para a realidade de seu projeto/empresa.
+No final do Sprint, duas atividades são fundamentais: o Sprint Review, onde o objetivo é validar e adptar o produto que está sendo construído, verificar se o que está sendo feito está de acordo com o esperado,é a apresentação do que foi feito no sprint. É neste ponto que surgem as mudanças e se atualiza o plano backlog.
+Para finalizar, segue uma demonstração di fluxo do sprint: 
+
 b.	Por que e como será utilizado o GITLAB?
 # by Wilson Amore.
 GIT
