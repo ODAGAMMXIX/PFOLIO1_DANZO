@@ -21,6 +21,8 @@ Para o desenvolvimento do nosso projeto utilizaremos o GitLab, com ele será pos
 
 c.	Por que e como será utilizado o SLACK?
 
+# by Caroline Sousa
+
 d.	Por que e como será utilizado o PYTHON?
 
 5.	Parte 03 – DIAGRAMAS DAS ENTIDADES QUE SERÃO CONSTRUÍDAS.
