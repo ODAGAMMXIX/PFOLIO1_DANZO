@@ -38,6 +38,12 @@ O Slack é uma das principais ferramentas utilizadas para o desenvolvimento do P
 
 d.	Por que e como será utilizado o PYTHON?
 
+# by Caroline Sousa
+
+Python é uma linguagem de programação de alto nível, desenvolvida por Guido van Rossum em 1991. Os objetivos desta linguagem são desenvolver códigos bom, ágil e objetiva. Além da linguagem de fácil interpretação o Python conta com uma biblioteca que fornece várias coleções de funções.
+Para o desenvolvimento do Projeto Integrador (Web Bot), foi escolhida a linguagem Python pelos integrantes do grupo por estarem familiarizados e será utilizado para desenvolver as raspagens do bot.
+
+
 5.	Parte 03 – DIAGRAMAS DAS ENTIDADES QUE SERÃO CONSTRUÍDAS.
 a.	Banco de Dados;
 b.	Processos
