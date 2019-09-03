@@ -1,15 +1,27 @@
 # Projeto Web Bot
-1.	Título: Mapeador de Criminalidade ao Redor da FATEC.
+1.	Título: DANZO - Mapeador de Criminalidade ao Redor da FATEC.
 
-2.	Objetivo: Raspagem de dados para demonstração da situação atual e tendência dos índices de criminalidade num raio de _km da Faculdade de Tecnologia de São Paulo – Prof. Jessen Vidal.
+2.	Objetivo: Raspagem de dados para demonstração da situação atual e tendência dos índices de criminalidade num certo raio da Faculdade de Tecnologia de São Paulo – Prof. Jessen Vidal.
 
 3.	Parte 01 - MVP – MINIMUM VIABLE PRODUCT.
-O MVP é (...).
-No caso desse projeto, as funcionalidades consideradas são:
-- Data Scraping do site da Secretaria de Segurança Pública do Estado de São Paulo;
-- Demonstração Gráfica da Situação atual, imediatamente após cada execução do BOT.
-- Cálculo da tendência do crime;
-- Demonstração Gráfica da tendência encontrada (linha, barras, spots);
+
+# by Wilson Amore
+MVP
+O MVP do nosso projeto será disponibilizar em uma página dados sobre o índice de violência na região do parque tecnológico. Nossos primeiros usuários serão os alunos da Fatec, que para ter acesso às informações da página terão que fazer um cadastro que irá solicitar:
+* nome, e-mail, idade, endereço;
+* Qual o objetivo de ter acesso aos dados fornecidos pela página?
+- Compra/Aluguel de casa;
+- Abertura de empresas/comércios;
+- Estudo na região;
+- Trabalho na região;
+- Pratico esporte na região;
+- Morador/Frequentador da região.
+Depois do cadastro o usuário voltará para página inicial onde terá que fazer o login na página, utilizando o e-mail cadastrado. Ao entrar na página o usuário terá acesso a informações de acordo com as opções de entrada, podendo inicialmente fazer o filtro do período (Ex: de junho/2017 a agosto/2019 e tipo de violência (Ex: Roubo de Carro/Moto, Assalto, Roubo de casa, etc.). Essas informações serão indicadas em um Gráfico para melhor visualização.
+Uma ideia para o futuro seria criar uma extensão da página (aplicativo) que dê as informações, e que também elabore uma rota mais segura para o usuário, podendo ser monitorada.
+Outra ideia para captação de recursos seria tratar os dados de entrada de usuários de forma que eles se tornem atraentes para clientes potenciais interessados como:
+- Empresas de segurança: com esses dados poderiam definir uma demanda de vendas/colaboradores por região;
+-Imobiliárias/Construtoras: com esses dados poderiam traçar o perfil de clientes para determinadas regiões;
+-Empreendedores: que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a esse publico alvo.
 
 
 4.	Parte 02 - JUSTIFICATIVAS.
