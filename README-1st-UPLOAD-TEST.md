@@ -23,6 +23,19 @@ c.	Por que e como será utilizado o SLACK?
 
 # by Caroline Sousa
 
+Slack
+O Slack foi lançado em 2014, por um Startup desenvolvedor de Software de mesmo nome, com a principal função de se tornar um facilitador da comunicação interna na empresa, através das suas funcionalidades semelhantes a um chat, com intuito de diminuir as trocas de e-mails, reuniões e informações divergentes entre equipes. 
+
+Slack no Projeto Integrador
+O Slack é uma das principais ferramentas utilizadas para o desenvolvimento do Projeto Integrador, pois é um meio de comunicação ágil e instantâneo, por este canal de comunicação, são decididos os próximos encontros presenciais, saneamentos de dúvidas das atividades desenvolvidas. Foram criados seis canais de comunicação no grupo do Slack.
+•	Avisos importantes: São postadas as informações mais importantes referentes ao projeto, como a data da entrega da Sprint, data da próxima reunião presencial da equipe, atividades que devem ser entregues.
+•	Geral: Canal destinado para discussões das atividades realizadas do projeto e dúvidas.
+•	Library: Este canal é apenas para compartilhamento de cursos, livros, programas e qualquer outra informação que ajude no estudo do projeto e no curso Banco de Dados.
+•	Outros assuntos: É um canal mais informal, podendo ser conversado sobre qualquer assunto, como compartilhamento de notícias, vagas de empregos, troca de conhecimentos, etc. 
+•	Web bot: Neste canal serão postadas apenas informações dos avanços e entregas referentes ao projeto Web bot.
+•	Daily: Utilizado para o envio da daily, que são todas as segundas, quartas e sextas até às 18h00.
+
+
 d.	Por que e como será utilizado o PYTHON?
 
 5.	Parte 03 – DIAGRAMAS DAS ENTIDADES QUE SERÃO CONSTRUÍDAS.
