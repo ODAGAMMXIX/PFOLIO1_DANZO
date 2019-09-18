@@ -146,7 +146,7 @@ Os assistentes de projeto estudaram a documentação necessária para cada tópi
 |-----------------------------------------------------|--------------------------------------|
 |**git config --global user.name "nome do usuário"**  | Seta seu usuario git no seu terminal |
 |**git config --global user.email "email do usuário"**| Seta seu email git no seu terminal   |
-|**git clone *<link>* **                              | Clona o projeto                      |
+|**git clone <link>**                                 | Clona o projeto                      |
 |**git pull**                                         | Baixa as alterações feitas do projeto|
 |**git add .**                                        | Adiciona arquivos                    |
 |**git commit -m "texto de commit ex: alteracao bla"**| Comita as coisas no seu Rep local    |
@@ -154,3 +154,11 @@ Os assistentes de projeto estudaram a documentação necessária para cada tópi
 |**git push**                                         | Sobe suas alterações para o git      |
 |**git checkout <nome_da_branch_existente>**          | Trocando para uma branch existente   |
 
+
+
+|           **Comandos Terminal Windows**             |            **Descrição**             |
+|-----------------------------------------------------|--------------------------------------|
+| **cd nome da pasta**                                | Entra na pasta indicada              |
+| **cd ..**                                           | Volta uma pasta                      |
+| **dir**                                             | Mostra todas os diretorios na pasta  |
+| **cls**                                             | Limpa o terminal                     |
