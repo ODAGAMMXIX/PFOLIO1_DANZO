@@ -124,7 +124,7 @@ Os assistentes de projeto estudaram a documentação necessária para cada tópi
 
 
 
-##COMO USAR O GIT:
+## COMO USAR O GIT:
 
 1. Criar uma pasta na sua area de trabalho (ex: pastateste)
 2. Abra o terminal do Git. Caso esteja direcionado na pasta **C:** utilizar o comando **cd** (change directory) para navegar entre as pastas
