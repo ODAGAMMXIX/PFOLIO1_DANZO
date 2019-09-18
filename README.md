@@ -126,22 +126,31 @@ Os assistentes de projeto estudaram a documentação necessária para cada tópi
 
 ## COMO USAR O GIT:
 
-1. Criar uma pasta na sua area de trabalho (ex: pastateste)
-2. Abra o terminal do Git. Caso esteja direcionado na pasta **C:** utilizar o comando **cd** (change directory) para navegar entre as pastas
-3. Ex: cd Users/MyName/Desktop. Isso ira me direcionar a pasta Users, depois para pasta Meu nome e por fim para minha area de trabalho
-4. Se ao caso errar o caminho, use o comando **cd ..** para retornar uma pasta para tras Ex: se eu estou na pasta Users/MyName/Desktop e der o comando **cd ..** eu irei para pasta Users/MyName 
+1. Criar uma pasta na sua area de trabalho *(ex: pastateste)*
+2. Abra o terminal do Git. Caso esteja direcionado na pasta **C:** utilizar o comando **cd** *(change directory)* para navegar entre as pastas
+3. Ex: cd *Users/MyName/Desktop*. Isso ira me direcionar a pasta Users, depois para pasta Meu nome e por fim para minha area de trabalho
+4. Se ao caso errar o caminho, use o comando **cd ..** para retornar uma pasta para tras Ex: se eu estou na pasta *Users/MyName/Desktop* e der o comando **cd ..** eu irei para pasta *Users/MyName *
 5. Entre na pasta criada na area de trabalho  C:/Users/MyName/Desktop/pastateste.
 6. Nesta pasta usa o comando git clone https://gitlab.com/web-bot-project/projeto-web-bot.git. Ctrl V normalmente nao funciona entao usa o botao direito do mouse para colar
-7. Ele irá criar uma pasta com o projeto. Entao precisamos entrar nesta pasta. cd web-bot-project
+7. Ele irá criar uma pasta com o projeto. Entao precisamos entrar nesta pasta. *cd web-bot-project*
 8. Por enquanto ainda estamos na Branch master e tudo que alterarmos seta alterado nela. Por isso sempre é bom estar em outra branch para fazermos nossas alterações nessa branch especifica
 9. Dar o comando git chekout **<nome da branch>** para trocar de branch
-10. Depois de fazer alguma alteração e quiser enviar para o git precisamos adionar essas mudanças com o comando **git add .** (ainda dentro da pasta do projeto)
+10. Depois de fazer alguma alteração e quiser enviar para o git precisamos adionar essas mudanças com o comando **git add .** *(ainda dentro da pasta do projeto)*
 11. Depois o com o comando **git commit -m "alteração de bla bla bla"** salvar o arquivo na sua pasta Git/web-bot-project local. É obrigatoria uma mensagem entre as aspas após o –m.
 12. Agora que o arquivo ja esta salvo na sua maquina basta envia-lo novamente ao gitlab, use o comando **git push** para empurrar o arquivo.
 13. Pronto, suas alterações ja estão no git na sua branch
 
+## Comandos Basicos de terminal e git 
 
-
-
-
+|                   **Comando Git**                   |            **Descrição**             |
+|-----------------------------------------------------|--------------------------------------|
+|**git config --global user.name "nome do usuário"**  | Seta seu usuario git no seu terminal |
+|**git config --global user.email "email do usuário"**| Seta seu email git no seu terminal   |
+|**git clone *<link>* **                              | Clona o projeto                      |
+|**git pull**                                         | Baixa as alterações feitas do projeto|
+|**git add .**                                        | Adiciona arquivos                    |
+|**git commit -m "texto de commit ex: alteracao bla"**| Comita as coisas no seu Rep local    |
+|**git status**                                       | Verifica o que foi alterado          |
+|**git push**                                         | Sobe suas alterações para o git      |
+|**git checkout <nome_da_branch_existente>**          | Trocando para uma branch existente   |
 
