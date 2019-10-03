@@ -1,4 +1,3 @@
-
 import requests, bs4
 res = requests.get('http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx')
 print(res.status_code) #status da requisição
