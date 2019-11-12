@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>Dados:</title><br>
+    </head>
+    <body>
+        <nav class="nav">
+            <a class="nav-link" href="indexAulaLars.html">Inicio</a>
+            <a class="nav-link" href="https://gitlab.com/web-bot-project/projeto-web-bot">Sobre</a>
+            <a class="nav-link" href="CadastroAulaLars.html">Cadastro</a>
+            <a class="nav-link" href="DadosAulaLars.html">Dados</a>
+            <a class="nav-link" href="ContatoAulaLars.html">Contato</a>
+        </nav><br><br>
+        <div class="container">
+            <h1 class="text-center">SELECIONE OS FILTROS: </h1><br>
+            <form action="" class="form-inline">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <label for="">Bairros</label>
+                        </div>
+                        <div class="col">
+                            <label for="">Delegacia</label>
+                        </div>
+                        <div class="col">
+                            <label for="">Tipo Criminalidade</label>
+                        </div>
+                        <div class="w-100"></div>
+                        <div class="col">
+                            <select name="nome" id="sel" class="form-control">
+                                <optgroup label="Região Leste - 10 bairros">
+                                    <option value="0">Selecione o Bairro</option>
+                                    <option value="10">Conj.Res.Jardim das Flores</option>
+                                    <option value="10">Terra Nova São José dos Campos</option>
+                                    <option value="10">Eugênio de Melo</option>
+                                    <option value="10">Jardim Ipê</option>
+                                    <option value="10">Jardim Itapuã</option>
+                                    <option value="10">Residencial Galo Branco</option>
+                                    <option value="10">Residencial Armando Moreira Righi</option>
+                                    <option value="10">Res. da Ribeira</option>
+                                    <option value="9">Mantiqueira I</option>
+                                    <option value="10">Mantiqueira II</option>
+                                </optgroup>
+                            </select>
+                        </div>
+                        <div class="col-3">
+                            <select name="Delegacia" class="form-control">
+                                <option value="1">Selecione a DP</option>
+                                <option value="1">DP 01</option>
+                                <option value="10">DP 02</option>
+                                <option value="20">DP 03</option>
+                                <option value="20">DP 04</option>
+                                <option value="20">DP 05</option>
+                            </select>
+                        </div>
+                        <div class="col">
+                            <select name="Tipo-Criminalidade" class="form-control">
+                                <option value="1">Selecione o tipo</option>
+                                <option value="1">Roubo</option>
+                                <option value="10">Furto</option>
+                                <option value="20">Assalto a mão armada</option>
+                                <option value="20">Sequestro</option>
+                            </select>
+                        </div>
+                        <div class="w-100"></div>
+                        <div class="col">
+                            <button class="btn btn-dark">Gerar mapa</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <script>
+        </script>
+    </body>
+</html>
