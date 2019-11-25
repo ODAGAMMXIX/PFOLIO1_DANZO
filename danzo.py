@@ -9,37 +9,50 @@ import pandas as pd
 from pathlib import Path
 from selenium.webdriver import ChromeOptions, Chrome
 
-month = { "1": "Janeiro", "2": "Fevereiro", "3": "Março", "4": "Abril", "5": "Maio", "6": "Junho", "7": "Julho", "8": "Agosto", "9": "Setembro", "10": "Outubro", "11": "Novembro", "12": "Dezembro" }
+month = { 
+    "1": "Janeiro", 
+    "2": "Fevereiro", 
+    "3": "Março", 
+    "4": "Abril", 
+    "5": "Maio", 
+    "6": "Junho", 
+    "7": "Julho", 
+    "8": "Agosto", 
+    "9": "Setembro", 
+    "10": "Outubro", 
+    "11": "Novembro", 
+    "12": "Dezembro"
+}
 
+anos = { 
+    '2015': '15',
+    '2016': '16',
+    '2017': '17',
+    '2018': '18',
+    '2019': '19'
+}
+
+crimes = {
+    'RouboVeiculo': 'ROUBO DE VEÍCULOS',
+    'FurtoVeiculo': 'FURTO DE VEÍCULOS',
+    'RouboCelular': 'ROUBO DE CELULAR',
+    'Latrocinio': 'LATROCÍNIO'
+}
+
+# Definição da função danzo que vai tratar a lógica do web-bot
+# Responsável pela utilização do selenium e folium (Heatmap)
+# Ref Selenium webdriver: https://selenium.dev/documentation/en/webdriver/
+# Ref Folium heatmap: https://python-visualization.github.io/folium/plugins.html
 def danzo(crime, mesInicial, mesFinal, ano):
+    # Definindo os caminhos dos arquivos usando a lib os
+    # Ref Os: https://docs.python.org/3/library/os.html
     danzo = os.getcwd()
     repository = os.getcwd() + '\includes'
-    chrome = r'C:\Chromedriver\chromedriver.exe'
     local = str(Path.home()) + '\Downloads'
-    selectcrime = crime
-    if selectcrime == 'RouboVeiculo':
-        crime = "RouboVeiculo"
-    elif selectcrime == 'FurtoVeiculo':
-        crime = "FurtoVeiculo"
-    elif selectcrime == 'RouboCelular':
-        crime = "RouboCelular"
-    elif selectcrime == 'Latrocinio':
-        crime = "Latrocinio"
-    table_name = crime
+    chrome = r'C:\Chromedriver\chromedriver.exe'
 
-    selectyear = ano
-    if selectyear == '2015':
-        year = "15"
-    elif selectyear == '2016':
-        year = "16"
-    elif selectyear == '2017':
-        year = "17"
-    elif selectyear == '2018':
-        year = "18"
-    elif selectyear == '2019':
-        year = "19"
-    elif selectyear == '2020':
-        year = "20"
+    table_name = crime
+    year = anos[ano]
 
     conn = sqlite3.connect(danzo + r'\database.db')
     cursor = conn.cursor()
@@ -81,15 +94,8 @@ def danzo(crime, mesInicial, mesFinal, ano):
 
     # fechar a página web
     driver.close()
-
-    if crime == 'RouboVeiculo':
-        crime = "ROUBO DE VEÍCULOS"
-    elif crime == 'FurtoVeiculo':
-        crime = "FURTO DE VEÍCULOS"
-    elif crime == 'RouboCelular':
-        crime = "ROUBO DE CELULAR"
-    elif crime == 'Latrocinio':
-        crime = "LATROCÍNIO"
+    
+    crime = crimes[crime]
 
     lista_num_ocorrencias = []
     # enviando arquivos para o diretório
@@ -141,8 +147,8 @@ def danzo(crime, mesInicial, mesFinal, ano):
     conn = sqlite3.connect(danzo + r'\database.db')
     r = conn.cursor()
     df = pd.read_sql_query("select longitude, latitude from '" + table_name + "' where latitude is not '' and longitude is not '';", conn)
-    from folium.plugins import HeatMap
     base_map = folium.Map(location=[-23.208, -45.849], control_scale=True, zoom_start=12)
+    from folium.plugins import HeatMap  
     HeatMap(data=df[['latitude', 'longitude']].groupby(['latitude', 'longitude']).sum().reset_index().values.tolist(), radius=8, max_zoom=13).add_to(base_map)
     nomes = ''
     for i in range(len(names)):
