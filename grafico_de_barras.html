@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8"/>
+<title>Chart</title>
+</head>
+<body>
+<div
+ id="chart" style="width: 400px; height: 400px;"></div>
+
+ <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+ <script>
+google.charts.load('current',
+ { 'packages': ['bar'] });
+
+ google.charts.setOnLoadCallback(function () {
+grafico();
+});
+
+ function grafico() {
+var
+ data = new google.visualization.DataTable();
+
+ /* NOMES DAS COLUNAS */
+data.addColumn('string','Índice de Criminalidade');
+data.addColumn('number','Roubo de Carro');
+data.addColumn('number','Furto de Carro');
+data.addColumn('number','Roubo de Celular');
+data.addColumn('number','Furto');
+/*
+ FIM NOMES DAS COLUNAS */
+
+ /* DADOS NUMERICOS QUE IRAO APARECER NO GRAFICO */
+data.addRow(['Quantitativo', 60, 30, 20, 80]);
+/*
+ FIM DADOS NUMERICOS QUE IRAO APARECER NO GRAFICO */
+
+ var options = {chart: {title: '',subtitle: ''},
+
+bar:
+ { groupWidth: "10%" },
+legend:
+ {
+position:
+ 'none'
+},
+
+ /* CORES EM HEXADECIMAL */
+colors:
+ ['#00A85A', '#EB3238','#F6874F','#00FF00']
+/*
+ FIM CORES EM HEXADECIMAL */
+};
+
+ var chart = new google.charts.Bar(document.getElementById("chart"));
+chart.draw(data,
+ google.charts.Bar.convertOptions(options));
+}
+
+ </script>
+</body>
+</html>
