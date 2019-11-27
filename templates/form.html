@@ -1,73 +1,61 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <title>Danzo</title><br>
-    </head>
-    <body>
-        <div class="container">
-            <h1 class="text-center">SELECIONE OS FILTROS: </h1>
-            <form method="POST">
-                <div class="form-group">
-                    <label for="">Mes Inicial:</label>
-                    <select name="mesInicial" id="sel" class="form-control">
-                        <option value=1>Janeiro</option>
-                        <option value=2>Fevereiro</option>
-                        <option value=3>Março</option>
-                        <option value=4>Abril</option>
-                        <option value=5>Maio</option>
-                        <option value=6>Junho</option>
-                        <option value=7>Julho</option>
-                        <option value=8>Agosto</option>
-                        <option value=9>Setembro</option>
-                        <option value=10>Outubro</option>
-                        <option value=11>Novembro</option>
-                        <option value=12>Dezembro</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="">Mes Final:</label>
-                    <select name="mesFinal" id="sel" class="form-control">
-                        <option value=1>Janeiro</option>
-                        <option value=2>Fevereiro</option>
-                        <option value=3>Março</option>
-                        <option value=4>Abril</option>
-                        <option value=5>Maio</option>
-                        <option value=6>Junho</option>
-                        <option value=7>Julho</option>
-                        <option value=8>Agosto</option>
-                        <option value=9>Setembro</option>
-                        <option value=10>Outubro</option>
-                        <option value=11>Novembro</option>
-                        <option value=12>Dezembro</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="">Ano:</label>
-                    <select name="ano" class="form-control">
-                        <option value="2015">2015</option>
-                        <option value="2016">2016</option>
-                        <option value="2017">2017</option>
-                        <option value="2018">2018</option>
-                        <option value="2019">2019</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="">Tipo Criminalidade:</label>
-                    <select name="crime" class="form-control">
-                        <option value="RouboVeiculo">Roubo de Veiculo</option>
-                        <option value="FurtoVeiculo">Furto de Veiculo</option>
-                        <option value="Latrocinio">Latrocinio</option>
-                        <option value="RouboCelular">Roubo de Celular</option>
-                    </select>
-                </div>
-                <button class="btn btn-dark">Gerar mapa</button>
-            </form>
-        </div>
-        <script>
-        </script>
-    </body>
-</html>
+{% extends "navbar.html" %}
+{% block content %}
+<h1 class="text-center">SELECIONE OS FILTROS: </h1>
+<form method="POST">
+    <div class="form-group">
+        <label for="">Mes Inicial:</label>
+        <select name="mesInicial" id="sel" class="form-control">
+            <option value=1>Janeiro</option>
+            <option value=2>Fevereiro</option>
+            <option value=3>Março</option>
+            <option value=4>Abril</option>
+            <option value=5>Maio</option>
+            <option value=6>Junho</option>
+            <option value=7>Julho</option>
+            <option value=8>Agosto</option>
+            <option value=9>Setembro</option>
+            <option value=10>Outubro</option>
+            <option value=11>Novembro</option>
+            <option value=12>Dezembro</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="">Mes Final:</label>
+        <select name="mesFinal" id="sel" class="form-control">
+            <option value=1>Janeiro</option>
+            <option value=2>Fevereiro</option>
+            <option value=3>Março</option>
+            <option value=4>Abril</option>
+            <option value=5>Maio</option>
+            <option value=6>Junho</option>
+            <option value=7>Julho</option>
+            <option value=8>Agosto</option>
+            <option value=9>Setembro</option>
+            <option value=10>Outubro</option>
+            <option value=11>Novembro</option>
+            <option value=12>Dezembro</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="">Ano:</label>
+        <select name="ano" class="form-control">
+            <option value="2015">2015</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="">Tipo Criminalidade:</label>
+        <select name="crime" class="form-control">
+            <option value="RouboVeiculo">Roubo de Veiculo</option>
+            <option value="FurtoVeiculo">Furto de Veiculo</option>
+            <option value="Latrocinio">Latrocinio</option>
+            <option value="RouboCelular">Roubo de Celular</option>
+        </select>
+    </div>
+    <button class="btn btn-dark">Gerar mapa</button>
+</form>
+</div>
+{% endblock %}
