@@ -9,12 +9,15 @@ app = Flask(__name__)
 charts = GoogleCharts()
 charts.init_app(app)
 
+@app.route('/', methods=['GET', 'POST'])
+def home():
+    return render_template('index.html')
 # Anotação que gerencia rotas para o Flask interpretá-las
 # No caso estamos declarando a rota principal '/'
 # Nela vamos capturar dois tipos de requisições HTTP, GET e POST para renderizar nossos templates
 # Ref render_template Flask method: http://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates
-@app.route('/', methods=['GET', 'POST'])
-def home():
+@app.route('/form', methods=['GET', 'POST'])
+def form():
     # Se a requisição for POST, que só acontece quando o usuário dá submit no form pegamos os dados do formulário para criar a query no banco dentro do danzo.py
     if request.method == 'POST':
         crime = request.form.get('crime')
