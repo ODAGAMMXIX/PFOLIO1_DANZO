@@ -1,4 +1,4 @@
-![enter image description here](https://lh3.googleusercontent.com/gt17PeTOdYjPF0eyrGqgDtH_Wo_ScPqelC-qC7NNJ7ET56_1tEv04JlfY2flW0OR8vQAWCTEvDth)
+![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
    
    
   # PROJETO WEB BOT
