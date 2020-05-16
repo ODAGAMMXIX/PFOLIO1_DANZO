@@ -131,7 +131,7 @@ Os assistentes de projeto estudaram a documentação necessária para cada tópi
  ***INTEGRANTES***  
     📉 Caroline Sousa  
     📉 Denise Oliveira  
-    📉 Fábio Odaguiri  
+    📉 Fábio Fabio
     📉 Leonardo Lindgren  
     📉 Wilson Amore  
  
