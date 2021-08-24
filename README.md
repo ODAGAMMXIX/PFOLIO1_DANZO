@@ -7,6 +7,17 @@
 
 **Objetivo:** Raspagem de dados para demonstração da situação atual e tendência dos índices de criminalidade num certo raio da Faculdade de Tecnologia de São Paulo – Prof. Jessen Vidal.
 
+### Resumo do Projeto 
+
+### Tecnologias adotadas na solução 
+
+### Contribuições individuais/pessoais 
+
+### Aprendizados Efetivos 
+
+### Contribuições individuais/pessoais. 
+
+
 ## Introdução  
 Um robô da Internet ou Internet Bot, ou simplesmente Web bot, consiste num programa ou conjunto de instruções em código que verifica a teia mundial (W.W.W.) de forma metódica ou automatizada.
 Este processo tem no seu cerne uma função básica chamada de Web crawling ou spidering. 
