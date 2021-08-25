@@ -1,13 +1,14 @@
-from selenium import webdriver
-import time
+import csv
 import os
 import shutil
 import sqlite3
-import csv
+import time
+from pathlib import Path
+
 import folium
 import pandas as pd
-from pathlib import Path
-from selenium.webdriver import ChromeOptions, Chrome
+from selenium import webdriver
+from selenium.webdriver import Chrome, ChromeOptions
 
 month = { 
     "1": "Janeiro", 

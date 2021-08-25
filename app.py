@@ -1,5 +1,7 @@
-from flask import Flask, request, render_template
-from flask_googlecharts import GoogleCharts, ColumnChart
+# Sync test fo
+from flask import Flask, render_template, request
+from flask_googlecharts import ColumnChart, GoogleCharts
+
 from danzo import danzo
 
 # Inicializando a instancia principal do Flask e do FlaskGoogleCharts
