@@ -1,3 +1,10 @@
+- Descrição: escreva uma descrição detalhada do projeto sob o seu ponto de vista.
+ - Tecnologias: não cite apenas as tecnologias, mas descreva o contexto em que foram utilizadas, por que foram escolhidas e pontos fortes de adequação com o projeto e etc
+ - Contribuições individuais: esta parte é central! Descreva suas contribuições individuais de forma aprofundada, colocando trechos de código que você fez numerando as linhas e comentando estas linhas, coloque diagramas por exemplo de arquitetura que você fez explicando decisões arquiteturais (por que foi feito desta forma?), e etc... (as possibilidades são grandes, além das coisas já citadas você podem pensar em outras como, por exemplo, citar tecnologias que foram empregadas e não ficaram boas, explicar por que não deu certo, como você pensou na solução e etc - se você pensar em solução de problemas encontrará muitos tópicos que teve problemas e conseguiu resolver e poderá aprofundar esta escrita o máximo possível)
+ - Aprendizados efetivos: essa parte também é central Enfatizar aqueles aprendizados que você sabe fazer com autonomia! Mostrar como esses aprendizados foram aplicados no API e, agora que você domina isso, como você poderá aplicar futuramente em seus próximos projetos como seus próximos projetos profissionais. Mostrar que estes aprendizados podem ser aplicados em novos projetos (até porque você utilizará estes portfólios para conseguir novos empregos de acordo com suas metas profissionais) 
+
+COLOCAR O LINK DOS OUTROS 4 PROJETOS.
+
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
    
    
