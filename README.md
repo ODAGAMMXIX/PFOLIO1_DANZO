@@ -1,3 +1,10 @@
+LISTA DE PROJETOS INTEGRADORES:
+
+https://github.com/ODAGAMMXIX/PFOLIO1_DANZO
+https://github.com/ODAGAMMXIX/PFOLIO2_GANTT
+https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE
+https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION
+
 - Descrição: escreva uma descrição detalhada do projeto sob o seu ponto de vista.
  - Tecnologias: não cite apenas as tecnologias, mas descreva o contexto em que foram utilizadas, por que foram escolhidas e pontos fortes de adequação com o projeto e etc
  - Contribuições individuais: esta parte é central! Descreva suas contribuições individuais de forma aprofundada, colocando trechos de código que você fez numerando as linhas e comentando estas linhas, coloque diagramas por exemplo de arquitetura que você fez explicando decisões arquiteturais (por que foi feito desta forma?), e etc... (as possibilidades são grandes, além das coisas já citadas você podem pensar em outras como, por exemplo, citar tecnologias que foram empregadas e não ficaram boas, explicar por que não deu certo, como você pensou na solução e etc - se você pensar em solução de problemas encontrará muitos tópicos que teve problemas e conseguiu resolver e poderá aprofundar esta escrita o máximo possível)
