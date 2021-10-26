@@ -23,23 +23,57 @@ For academic purposes, the description below will be delivered in Portuguese, th
 
 I - DESCRIÇÃO DO PROJETO.
 
-O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega.
+O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega de um Mapeador de Criminalidade ao Redor da FATEC.
 
 Houve dificuldades de natureza humana, estrutural e tecnológica. No primero semestre, encontrando pela primeira vez os colegas e professores, com limitações estruturais e conhecendo novo vocabulário: nomes e neologismos, bem como de gerência de projetos, ambos de TI (metodologia Agile).
 
 Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
 
+Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redonndezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
+
 Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
 Assim, implantamos uma metodologia que denominamos "competing codes". Dois colegas buscavam solução para o mesmo problema, vencendo o código que melhor atendesse as necessidades dos projetos.
 
-Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas 
+Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibliotecas do Python que não foram utilizadas na solução em si (*v.g.* matplotlib).
 
+Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 
-- Descrição: escreva uma descrição detalhada do projeto sob o seu ponto de vista.
+1 - Escolha do usuário na página DANZO;​
 
+2 – Obtenção de dados do sítio Transparência SSP-SP;​
 
- - Tecnologias: não cite apenas as tecnologias, mas descreva o contexto em que foram utilizadas, por que foram escolhidas e pontos fortes de adequação com o projeto e etc
+3 – Tratamento de arquivo obtido: criação de pasta local, renomeação;​
+
+4 – Tratamento de dados: Leitura do arquivo obtido, coluna por coluna LISTAS), para  inserção em BD;​
+
+5 – Inserção incremental em BD Sqlite3;​
+
+6 – Leitura do BD Sqlite3;​
+
+7 – Apresentação dos dados: mapa de calor, barras; ​
+
+II - TECNOLOGIAS
+
+Em fase embrionária de aprendizado, a euipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
+
+No contexto do Python, contamos com a orientação do Docente e muita pesquisa em fóruns virtuais  especializados para implementar blocos de códigos com propósito específico.
+
+As bibliotecas mais importantes foram:
+
+- selenium: emulação de ações humanas para acessar o sitio da Secretaria de Segurança Pública do Estado de São Paulo, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
+
+-  pandas: agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados. Com meu conhecimento prévio na área jurídica, tonou-se mais fácil explicar conceitos e etender o que seria mais adequado demonstrar.
+
+-  folium: 
+- flask: 
+- flask_googlecharts: 
+
+III - CONTRIBUIÇÕES INDIVIDUAIS.
+
+A definição do MVP (MINIMUM VIABLE PRODUCT) foi mais simples 
+
+![](imgs/20211026-202145.png)
 
 
  - Contribuições individuais: esta parte é central! Descreva suas contribuições individuais de forma aprofundada, colocando trechos de código que você fez numerando as linhas e comentando estas linhas, coloque diagramas por exemplo de arquitetura que você fez explicando decisões arquiteturais (por que foi feito desta forma?), e etc... (as possibilidades são grandes, além das coisas já citadas você podem pensar em outras como, por exemplo, citar tecnologias que foram empregadas e não ficaram boas, explicar por que não deu certo, como você pensou na solução e etc - se você pensar em solução de problemas encontrará muitos tópicos que teve problemas e conseguiu resolver e poderá aprofundar esta escrita o máximo possível)
@@ -49,15 +83,10 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas
 
 
 
+
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
    
    
-  # PROJETO WEB BOT
-
-**Título:** DANZO - Mapeador de Criminalidade ao Redor da FATEC.
-
-**Objetivo:** Raspagem de dados para demonstração da situação atual e tendência dos índices de criminalidade num certo raio da Faculdade de Tecnologia de São Paulo – Prof. Jessen Vidal.
-
 ### Resumo do Projeto 
 
 ### Tecnologias adotadas na solução 
@@ -67,15 +96,6 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas
 ### Aprendizados Efetivos 
 
 ### Contribuições individuais/pessoais. 
-
-
-## Introdução  
-Um robô da Internet ou Internet Bot, ou simplesmente Web bot, consiste num programa ou conjunto de instruções em código que verifica a teia mundial (W.W.W.) de forma metódica ou automatizada.
-Este processo tem no seu cerne uma função básica chamada de Web crawling ou spidering. 
-A literatura atual tende a identificar o Web crawler e o Web bot como sinônimos. Para fins deste projeto, o web bot [doravante denominado WB] consiste num robô da Internet que vasculha por dados determinados nas instruções do código de programação e geral certos resultados que tenham valor para o cliente (product owner).  
-O WB podem ser utilizados para copiar dados de páginas da Internet que se queira vasculhar, verificando links e validar códigos HTML. Além disso, podem ser utilizados para obter dados especificados previamente, tal qual endereços de e-mail (geralmente para que se crie uma lista de SPAM), ou dados estatísticos em geral.  
-Com uma variedade virtualmente infindável de usos, os WB podem ser utilizados tanto para ferramentas de suporte à automação de tarefas com objetivos benignos como para prejudicar pessoas, variando desde serviços de atendimento ao consumidor (chat bots), passando por monitoramento de informações esparsas sem controle ou repositório oficial até mesmo ataques cibernéticos por civis e militares (DDOS - distributed denial of service attack, ou ataques distribuídos de negação de serviço pela exaustão do servidor que não suporta a quantidade de requisições que um robô da Internet pode requisitar). 
-
 
 ##	MVP – MINIMUM VIABLE PRODUCT  
 O Produto Mínimo Viável ou, no Inglês “MVP” do DANZO consistirá em disponibilizar os dados em uma página na Internet sobre o índice de violência na região da FATEC e Parque Tecnológico. 
