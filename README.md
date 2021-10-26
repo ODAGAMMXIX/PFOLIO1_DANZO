@@ -1,6 +1,6 @@
 LIST OF ACADEMIC PROJECTS:
 
-[PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+[PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
 [PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
 [PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
 [PROJECT-SEMESTRE-04-2021.1 - *Oracle HR API  for searching candidates* ](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION) 
@@ -16,10 +16,24 @@ The first project in the first semestre was evolutionary, although hectic.
 
 Without significant contact with the technological resources needed for a working application, there was an imersion in new vocabulary, colleagues and procedures.
 
-Eventually, a web scrapper was delivered, plotting a heat map of crime in the surrounding of the school, extracting data from the São Paulo State website.
+Eventually, a web (bot) scrapper was delivered, plotting a heat map of crime in the surrounding of the school, extracting data from the São Paulo State website.
+
+For academic purposes, the description below will be delivered in Portuguese, though I am available to speak about this project in full English should you be interested in hiring me. Here, I acted as P.O. and second S.M. and R&D agent.
  
 
-I - PROJECT DESCRIPTION.
+I - DESCRIÇÃO DO PROJETO.
+
+O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega.
+
+Houve dificuldades de natureza humana, estrutural e tecnológica. No primero semestre, encontrando pela primeira vez os colegas e professores, com limitações estruturais e conhecendo novo vocabulário: nomes e neologismos, bem como de gerência de projetos, ambos de TI (metodologia Agile).
+
+Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
+
+Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
+
+Assim, implantamos uma metodologia que denominamos "competing codes". Dois colegas buscavam solução para o mesmo problema, vencendo o código que melhor atendesse as necessidades dos projetos.
+
+Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas 
 
 
 - Descrição: escreva uma descrição detalhada do projeto sob o seu ponto de vista.
