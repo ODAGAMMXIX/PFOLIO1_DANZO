@@ -1,16 +1,39 @@
-LISTA DE PROJETOS INTEGRADORES:
+LIST OF ACADEMIC PROJECTS:
 
-https://github.com/ODAGAMMXIX/PFOLIO1_DANZO
-https://github.com/ODAGAMMXIX/PFOLIO2_GANTT
-https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE
-https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION
+[PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+[PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+[PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
+[PROJECT-SEMESTRE-04-2021.1 - *Oracle HR API  for searching candidates* ](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION) 
+[PROJECT-SEMESTRE-05-2021.2 - *Pentaho & Data Warehouse Analytics of Education* ](https://gitlab.com/rafaelEstevam/back-educalytics) 
+
+
+FIRST PROJECT, SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor*
+
+
+i. ABOUT THIS PROJECT.
+
+The first project in the first semestre was evolutionary, although hectic.
+
+Without significant contact with the technological resources needed for a working application, there was an imersion in new vocabulary, colleagues and procedures.
+
+Eventually, a web scrapper was delivered, plotting a heat map of crime in the surrounding of the school, extracting data from the São Paulo State website.
+ 
+
+I - PROJECT DESCRIPTION.
+
 
 - Descrição: escreva uma descrição detalhada do projeto sob o seu ponto de vista.
+
+
  - Tecnologias: não cite apenas as tecnologias, mas descreva o contexto em que foram utilizadas, por que foram escolhidas e pontos fortes de adequação com o projeto e etc
+
+
  - Contribuições individuais: esta parte é central! Descreva suas contribuições individuais de forma aprofundada, colocando trechos de código que você fez numerando as linhas e comentando estas linhas, coloque diagramas por exemplo de arquitetura que você fez explicando decisões arquiteturais (por que foi feito desta forma?), e etc... (as possibilidades são grandes, além das coisas já citadas você podem pensar em outras como, por exemplo, citar tecnologias que foram empregadas e não ficaram boas, explicar por que não deu certo, como você pensou na solução e etc - se você pensar em solução de problemas encontrará muitos tópicos que teve problemas e conseguiu resolver e poderá aprofundar esta escrita o máximo possível)
+
+
  - Aprendizados efetivos: essa parte também é central Enfatizar aqueles aprendizados que você sabe fazer com autonomia! Mostrar como esses aprendizados foram aplicados no API e, agora que você domina isso, como você poderá aplicar futuramente em seus próximos projetos como seus próximos projetos profissionais. Mostrar que estes aprendizados podem ser aplicados em novos projetos (até porque você utilizará estes portfólios para conseguir novos empregos de acordo com suas metas profissionais) 
 
-COLOCAR O LINK DOS OUTROS 4 PROJETOS.
+
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
    
