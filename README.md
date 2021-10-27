@@ -6,16 +6,16 @@ LIST OF ACADEMIC PROJECTS:
 
 [PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
 
-[PROJECT-SEMESTRE-04-2021.1 - *Oracle HR API  for searching candidates* ](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION) 
+[PROJECT-SEMESTRE-04-2021.1 - *Oracle HR Solution  for searching candidates via API* ](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION) 
 
 [PROJECT-SEMESTRE-05-2021.2 - *Pentaho & Data Warehouse Analytics of Education* ](https://gitlab.com/rafaelEstevam/back-educalytics) 
 
 
-FIRST PROJECT, SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor*
+**FIRST PROJECT, SEMESTRE-01-2019.2 - *Python Web Scrapping - Public Safety Monitor***
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-i. ABOUT THIS PROJECT.
+**i. ABOUT THIS PROJECT.**
 
 The first project in the first semestre was evolutionary, although hectic.
 
@@ -74,7 +74,7 @@ Ao final, o webbot foi capaz de realizar as seguintes tarefas:
 ![](imgs/20211026-210136.png)
 
 
-II - TECNOLOGIAS
+**II - TECNOLOGIAS**
 
 Em fase embrionária de aprendizado, a euipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
 
@@ -90,7 +90,7 @@ As bibliotecas mais importantes foram:
 - flask: 
 - flask_googlecharts: 
 
-III - CONTRIBUIÇÕES INDIVIDUAIS.
+**III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
 A definição do MVP (MINIMUM VIABLE PRODUCT) foi mais simples com minha formação na área jurídica e profissional, tanto no público como no privado.
 
@@ -134,7 +134,7 @@ Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, pes
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
-IV - APRENDIZADOS EFETIVOS.
+**IV - APRENDIZADOS EFETIVOS.**
 
 Tivemos o primeiro contato com a Metodologia Agil, e com as ferramentas para acompanhamento do projeto: Slack, repositório no Gitlab.
 
