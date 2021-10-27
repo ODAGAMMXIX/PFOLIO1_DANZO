@@ -1,9 +1,13 @@
 LIST OF ACADEMIC PROJECTS:
 
 [PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+
 [PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+
 [PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
+
 [PROJECT-SEMESTRE-04-2021.1 - *Oracle HR API  for searching candidates* ](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION) 
+
 [PROJECT-SEMESTRE-05-2021.2 - *Pentaho & Data Warehouse Analytics of Education* ](https://gitlab.com/rafaelEstevam/back-educalytics) 
 
 
