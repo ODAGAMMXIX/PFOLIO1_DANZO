@@ -11,7 +11,7 @@
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-**i. ABOUT THIS PROJECT.**
+###**i. ABOUT THIS PROJECT.**
 
 The first project in the first semestre was evolutionary, although hectic.
 
@@ -22,7 +22,7 @@ Eventually, a web (bot) scrapper was delivered, plotting a heat map of crime in 
 For academic purposes, the description below will be delivered in Portuguese, though I am available to speak about this project in full English should you be interested in hiring me. Here, I acted as P.O. and second S.M. and R&D agent.
  
 
-**I - DESCRIÇÃO DO PROJETO.**
+###**I - DESCRIÇÃO DO PROJETO.**
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnológicas para a efetiva entrega de uma aplicção funcionando. Decidimos por um Mapeador de Criminalidade ao Redor da FATEC.
 
@@ -78,7 +78,7 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 ![Mapa de Calor](imgs/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
 
 
-**II - TECNOLOGIAS**
+###**II - TECNOLOGIAS**
 
 Em fase embrionária de aprendizado, a equipe elegeu o *Python*por ser linguagem de programação de alto nível (mais amigável ao programador).
 
@@ -96,7 +96,7 @@ As bibliotecas mais importantes do *Python* foram:
 ![](imgs/20211122-201812.png)
 - ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar os gráficos mensais dos índice de criminalidade.
 
-**III - CONTRIBUIÇÕES INDIVIDUAIS.**
+###**III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
 A definição do MVP (*MINIMUM VIABLE PRODUCT*) passou por um processo menos complexo devido à minha formação na área jurídica e profissional, tanto no público como no privado.
 
@@ -145,7 +145,7 @@ Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **p
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
-**IV - APRENDIZADOS EFETIVOS.**
+###**IV - APRENDIZADOS EFETIVOS.**
 
 Tivemos o primeiro contato com a *Metodologia Ágil*, e com as ferramentas para acompanhamento do projeto: *Slack*, repositório no *Gitlab*.
 
