@@ -41,7 +41,7 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 1 - Escolha do usuário na página DANZO;​
-![Entrada](/home/linus/Downloads/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png  "Entrada")
+![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png  "Entrada")
 
 
 2 – Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
@@ -69,13 +69,13 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 7 – Apresentação dos dados: **mapa de calor e barras, segundo filtro escolhido pelo usuário**; ​
 
-![Fitro para Usuário Escolher](/home/linus/Downloads/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png  "Fitro para Usuário Escolher")
+![Fitro para Usuário Escolher](imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png  "Fitro para Usuário Escolher")
 
-![Gráfico de Barras 01](/home/linus/Downloads/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png  "Gráfico de Barras 01")
+![Gráfico de Barras 01](imgs/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png  "Gráfico de Barras 01")
 
 ![](imgs/20211026-210136.png)
 
-![Mapa de Calor](/home/linus/Downloads/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
+![Mapa de Calor](imgs/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
 
 
 **II - TECNOLOGIAS**
