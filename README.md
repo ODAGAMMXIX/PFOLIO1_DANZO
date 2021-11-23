@@ -137,8 +137,8 @@ Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **p
 O mapa de calor seria similar a este:
 
 ![](imgs/20211122-210244.png)
-[Exemplo extraído da Internet] [1]
-[1]: https://www.google.com/search?q=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&tbm=isch&ved=2ahUKEwi9vdmEl630AhX2BrkGHfbqB8cQ2-cCegQIABAA&oq=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1ChB1ihB2CdCWgAcAB4AIABmAGIAYECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Si-cYb3wDfaN5OUP9tWfuAw&bih=780&biw=1400&client=ubuntu&hs=bB2#imgrc=7QlgJBO0_QxilM(google.com)/search?q=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&tbm=isch&ved=2ahUKEwi9vdmEl630AhX2BrkGHfbqB8cQ2-cCegQIABAA&oq=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1ChB1ihB2CdCWgAcAB4AIABmAGIAYECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Si-cYb3wDfaN5OUP9tWfuAw&bih=780&biw=1400&client=ubuntu&hs=bB2#imgrc=7QlgJBO0_QxilM) "Exemplo extraído da Internet"
+
+ [Exemplo extraído da Internet] ( https://www.google.com/search?q=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&tbm=isch&ved=2ahUKEwi9vdmEl630AhX2BrkGHfbqB8cQ2-cCegQIABAA&oq=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1ChB1ihB2CdCWgAcAB4AIABmAGIAYECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Si-cYb3wDfaN5OUP9tWfuAw&bih=780&biw=1400&client=ubuntu&hs=bB2#imgrc=7QlgJBO0_QxilM(google.com)/search?q=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&tbm=isch&ved=2ahUKEwi9vdmEl630AhX2BrkGHfbqB8cQ2-cCegQIABAA&oq=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1ChB1ihB2CdCWgAcAB4AIABmAGIAYECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Si-cYb3wDfaN5OUP9tWfuAw&bih=780&biw=1400&client=ubuntu&hs=bB2#imgrc=7QlgJBO0_QxilM)
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
