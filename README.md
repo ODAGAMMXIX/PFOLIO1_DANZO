@@ -11,13 +11,9 @@
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-###**i. ABOUT THIS PROJECT.**
+### **i. ABOUT THIS PORTIFOLIO.**
 
-The first project in the first semestre was evolutionary, although hectic.
-
-Without significant contact with the technological resources needed for a working application, there was an imersion in new vocabulary, colleagues and procedures.
-
-Eventually, a web (bot) scrapper was delivered, plotting a heat map of crime in the surrounding of the school, extracting data from the São Paulo State website.
+This portifolio is the result of academic projetcs based on the Learning by Projects method.
 
 For academic purposes, the description below will be delivered in Portuguese, though I am available to speak about this project in full English should you be interested in hiring me. Here, I acted as P.O. and second S.M. and R&D agent.
  
