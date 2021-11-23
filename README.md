@@ -7,7 +7,7 @@
 [PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
 
 
-#***FIRST PROJECT, SEMESTRE-01-2019.2 - Python WebBot - Scrapping - Public Safety Monitor***
+# ***FIRST PROJECT, SEMESTRE-01-2019.2 - Python WebBot - Scrapping - Public Safety Monitor***
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
