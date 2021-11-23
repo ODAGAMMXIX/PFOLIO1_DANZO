@@ -1,4 +1,4 @@
-LIST OF ACADEMIC PROJECTS:
+# PORTFOLIO - LIST OF ACADEMIC PROJECTS:
 
 [PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
 
@@ -41,6 +41,8 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 1 - Escolha do usuário na página DANZO;​
+![Entrada](/home/linus/Downloads/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png  "Entrada")
+
 
 2 – Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
 
@@ -65,9 +67,15 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 6 – Leitura do BD *SqLite3*;​
 
-7 – Apresentação dos dados: mapa de calor, barras; ​
+7 – Apresentação dos dados: **mapa de calor e barras, segundo filtro escolhido pelo usuário**; ​
+
+![Fitro para Usuário Escolher](/home/linus/Downloads/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png  "Fitro para Usuário Escolher")
+
+![Gráfico de Barras 01](/home/linus/Downloads/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png  "Gráfico de Barras 01")
 
 ![](imgs/20211026-210136.png)
+
+![Mapa de Calor](/home/linus/Downloads/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
 
 
 **II - TECNOLOGIAS**
@@ -134,11 +142,6 @@ Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **p
 
 ![](imgs/20211026-205503.png)
 
-O mapa de calor seria similar a este:
-
-![](imgs/20211122-210244.png)
-
- [Exemplo extraído da Internet](https://www.google.com/search?q=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&tbm=isch&ved=2ahUKEwi9vdmEl630AhX2BrkGHfbqB8cQ2-cCegQIABAA&oq=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1ChB1ihB2CdCWgAcAB4AIABmAGIAYECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Si-cYb3wDfaN5OUP9tWfuAw&bih=780&biw=1400&client=ubuntu&hs=bB2#imgrc=7QlgJBO0_QxilM(google.com)/search?q=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&tbm=isch&ved=2ahUKEwi9vdmEl630AhX2BrkGHfbqB8cQ2-cCegQIABAA&oq=mapa+de+calor+dados+estado+de+s%C3%A3o+paulo&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1ChB1ihB2CdCWgAcAB4AIABmAGIAYECkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Si-cYb3wDfaN5OUP9tWfuAw&bih=780&biw=1400&client=ubuntu&hs=bB2#imgrc=7QlgJBO0_QxilM)
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
