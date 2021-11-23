@@ -150,15 +150,15 @@ Atuei como segundo *Scrum Master* [SM], pois o facilitador principal (do último
 
 Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi minha capacidade de entender  necessidade do cliente como *Product Owner* [PO] e a apresentar o resutado do trabalho da equipe, traduzindo a linguagem técnica em linguagem comercial (venda da solução), destacado pontos fortes que interessam aos clientes e tratando os pontos que podem ser melhorados (PO).
 
-Ao final do projeto, percebemos que a utilização da solução poderia ser aproveitada por muitos recortes sociais:
+Ao final do projeto, percebemos que **a solução poderia ser aproveitada por muitos recortes sociais:**
 
-•	Compra/Aluguel de imóveis;  
-•	Abertura de empresas/comércios;  
-•	Geomarketing na região;  
-•	Oportunidades de trabalho na região;  
-•	Prática esporte na região;  
-•	Lazer (evento cultural, maratona *geek*, ou festa na região);  
-•	Morador/Frequentador da região.  
+•	**Compra/Aluguel de imóveis; **
+•	**Abertura de empresas/comércios; **
+•	**Geomarketing na região;  **
+•	**Oportunidades de trabalho na região;  **
+•	**Prática esporte na região;  **
+•	**Lazer (evento cultural, maratona *geek*, ou festa na região); ** 
+•	**Morador/Frequentador da região. **
 
 Nessa linha, como **potenciais clientes** pagantes:
 
@@ -166,9 +166,9 @@ Nessa linha, como **potenciais clientes** pagantes:
 
 -**Imobiliárias/Construtoras:** com esses dados poderiam traçar o perfil de clientes para determinadas regiões;  
 
--**Empreendedores (Geomarketing):** que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a este público alvo.  
+-**Empreendedores (Geomarketing):** que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a este público alvo;
 
-- **Empresas de *Robot Processo Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época
+-**Empresas de *Robot Processo Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época);
 
 No aspecto técnico, descobri grande habilidade de pesquisa e desenvolvimento (*R&D*), especialmente na literatura no idioma Inglês, capaz de encontrar rapidamente as ferramentas paa servir à equipe e fomentar a composição de uma solução final.
 
