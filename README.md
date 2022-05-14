@@ -29,23 +29,22 @@ For academic purposes, the description below will be delivered in Portuguese, th
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnológicas para a efetiva entrega de uma aplicção funcionando. Decidimos por um Mapeador de Criminalidade ao Redor da FATEC.
 
-Houve dificuldades de natureza humana, estrutural e tecnológica. No primero semestre, encontrando pela primeira vez os colegas e professores, com limitações estruturais e conhecendo novo vocabulário: nomes e neologismos, bem como de gerência de projetos, ambos de TI (Metodologia Ágil).
+Houve dificuldades de natureza humana, estrutural e tecnológica. No primeiro semestre, novos colegas e professores, com as limitações de conexão de Internet e de hardware, conhecendo novo vocabulário (neologismos e nomes de artefatos e ferramentas), bem a Metodologia Ágil.
 
-Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
+Com o suporte de alunos do último semestre na função de *Scrum Master*, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
 
-Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um WebBot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, **verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento** em qualquer região do Estado de São Paulo.
+Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um WebBot que pudesse mostrar índices de criminalidade nas redondezas do *campus*. Ao final, **verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento** em qualquer região do Estado de São Paulo.
 
-Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado respeitou a velocidade individual entre alunos.
+Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado respeitou a velocidade individual dos alunos.
 
-Assim, implantamos uma metodologia que denominamos ***competing codes***. Dois colegas buscavam solução para o mesmo problema, vencendo o código que melhor atendesse as necessidades ds projeto.
+Assim, implantamos uma metodologia que denominamos ***competing codes***. Dois colegas buscavam solução para o mesmo problema, *vencendo o código que melhor atendesse as necessidades ds projeto*.
 
-Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibliotecas do *Python* que não foram utilizadas na solução em si (*v.g.* Matplotlib).
+Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibliotecas do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), que não foram utilizadas na solução em si (*v.g.* Matplotlib).
 
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 ### 1) Escolha do usuário na página DANZO;​
-![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png  "Entrada")
-
+![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png "Entrada")
 
 ### 2) Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
 
@@ -59,16 +58,15 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 ![](imgs/20211026-210057.png)
 
-
 ### 3) Manuseio do arquivo obtido: criação de pasta local, renomeação;​
 
 ### 4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD;​
 
 ![](imgs/20211026-210117.png)
 
-### 5) Inserção incremental em banco de dados *SqLite3*;​
+### 5) Inserção incremental em banco de dados ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white);​
 
-### 6) Leitura do BD *SqLite3*;​
+### 6) Leitura do BD ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white);​
 
 ### 7) Apresentação dos dados: **mapa de calor e barras, segundo filtro escolhido pelo usuário**; ​
 
@@ -83,29 +81,28 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 ### **II - TECNOLOGIAS**
 
-Em fase embrionária de aprendizado, a equipe elegeu o *Python*por ser linguagem de programação de alto nível (mais amigável ao programador).
+Em fase embrionária de aprendizado, a equipe elegeu o ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) por ser linguagem de programação de alto nível (mais amigável ao programador).
 
 No contexto do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), contamos com a orientação do Docente e muita pesquisa em fóruns virtuais  estrangeiros especializados para implementar blocos de códigos com propósito específico.
 
-As bibliotecas mais importantes do *Python* foram:
+As bibliotecas mais importantes do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) foram:
 
 - ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white): emulação de ações humanas para acessar o sitio da **Secretaria de Segurança Pública do Estado de São Paulo**, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
 
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white): agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "*Python*para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados. **Com meu conhecimento prévio na área jurídica, tonou-se mais fácil explicar conceitos e etender o que seria mais adequado demonstrar**.
-
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white): agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "*Python*para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. Aqui, nasceu para mim a curiosidade por Ciência de Dados. **Com meu conhecimento prévio na área jurídica, tonou-se mais fácil explicar conceitos e etender o que seria mais adequado demonstrar**.
 	
 -  ***Folium***: facilitador de visualização dos dados em um mapa interativo; auxiliou na manipulação dos dados no mapa de calor, com o agrupamento das regiões segundo seus respectivos índices de criminalidade ao redor da Fatec.
 
-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white):  Framework para *Python* utilizado para desenvolver aplicação web, escolhido pela simplicidade de configuração e rapidez no desenvolvimento, com curva de aprendizado mais curta (apresentado pelo Scrum Master).
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white):  Framework para ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) utilizado para desenvolver aplicação web, escolhido pela simplicidade de configuração e rapidez no desenvolvimento, com *curva de aprendizado* mais curta (apresentado pelo *Scrum Master*).
 ![](imgs/20211122-201812.png)
 
-- ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar os gráficos mensais dos índice de criminalidade.
+- ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar aqueles com índice de criminalidade mensal.
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV/TAB oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV(TAB) oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-Minha formação profissional facilitou a definição do MVP (*MINIMUM VIABLE PRODUCT*), com a visão de mercado e possibilidade jurídica da ferramenta.
+Minha formação profissional facilitou a definição do MVP (*Minimum Viable Product*), com a visão de mercado e possibilidade jurídica da ferramenta.
 
 Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
 
@@ -152,13 +149,13 @@ Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seu
 
 ### **IV - APRENDIZADOS EFETIVOS.**
 
-Tivemos o primeiro contato com a *Metodologia Ágil*, e com as ferramentas para acompanhamento do projeto: *Slack*, repositório no *Gitlab*.
+Tivemos o primeiro contato com a *Metodologia Ágil* e com as ferramentas para acompanhamento do projeto: *Slack*, repositório *Git*.
 
 Atuei como segundo *Scrum Master* [SM], pois o facilitador principal (do último semestre) também possuia carga horária assoberbada; assim, **realizávamos nossas *dailys* com a equipe, antes do início das aulas, na biblioteca**.
 
 Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi minha capacidade de entender  necessidade do cliente como *Product Owner* [PO] e a apresentar o resutado do trabalho da equipe, traduzindo a linguagem técnica em linguagem comercial (venda da solução), destacado pontos fortes que interessam aos clientes e tratando os pontos que podem ser melhorados (PO).
 
-Ao final do projeto, percebemos que **a solução poderia ser aproveitada por muitos recortes sociais:**
+Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
 •	**Compra/Aluguel de imóveis; **
 •	**Abertura de empresas/comércios; **
@@ -168,20 +165,20 @@ Ao final do projeto, percebemos que **a solução poderia ser aproveitada por mu
 •	**Lazer (evento cultural, maratona *geek*, ou festa na região); ** 
 •	**Morador/Frequentador da região. **
 
-Nessa linha, como **potenciais clientes** pagantes:
+Nessa linha, como **potenciais clientes** pagantes e com nossos dados tratados teríamos:
 
--**Empresas de segurança:** com esses dados poderiam definir uma demanda de vendas/colaboradores por região;  
+-**Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
 
--**Imobiliárias/Construtoras:** com esses dados poderiam traçar o perfil de clientes para determinadas regiões;  
+-**Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
 
--**Empreendedores (Geomarketing):** que teriam acesso a informações sobre o perfil da pessoa que frequenta a região, abrindo um restaurante ou loja que atenda a este público alvo;
+-**Empreendedores (Geomarketing):** quais negócios abrir na região;
 
--**Empresas de *Robot Processo Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época);
+-**Empresas de *Robot Process Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época);
 
-No aspecto técnico, descobri grande habilidade de pesquisa e desenvolvimento (*R&D*), especialmente na literatura no idioma Inglês, capaz de encontrar rapidamente as ferramentas paa servir à equipe e fomentar a composição de uma solução final.
+No aspecto técnico, descobri grande habilidade de pesquisa e desenvolvimento (*R&D*), especialmente no idioma Inglês, capaz de encontrar rapidamente as ferramentas para servir à equipe e fomentar a composição de uma solução final.
 
-Com a ajuda de ambientes de colaboração (*Google Colab e Jupyter*), consegui atingir esta agilidade e os colegas com mais habilidades técnicas de integração nos blocos de códigos contribuiram efetivamente para a inteireza do código fonte final.
+Com a ajuda de ambientes de colaboração (*Google Colab e Jupyter*), consegui atingir esta agilidade de respostas, possibilitanddo aos colegas (com mais habilidades técnicas de integração nos blocos de códigos) na escrita e inteireza do código fonte final.
 
-Aprendi a utilizar as bibliotecas do *Python* listadas acima, com razoável velocidade.
+Aprendi a utilizar as bibliotecas do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) listadas acima, com razoável velocidade.
 
-Assim, é esperado o aproveitamento desde aprendizado para **trabalho comercial técnico em TI, Ciência de Dados para fazer sentido do volume de dados atualmente produzido em todos os setores, bem como na a coordenação de equipes multidisciplianares, em múltiplos idiomas e com diversidade cultural.**
+Assim, é esperado o aproveitamento deste aprendizado para **trabalho comercial técnico em TI, Ciência de Dados para fazer sentido do volume de dados atualmente produzido em todos os setores, bem como na a coordenação de equipes multidisciplianares, em múltiplos idiomas e com diversidade cultural.**
