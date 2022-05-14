@@ -14,7 +14,7 @@
 
 ***
 
-<h1 align="center">[Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública]</h1>
+<h1 align="center">[Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública]</h1> [#begining]
 
 	
 
@@ -158,8 +158,8 @@ Atuei como segundo *Scrum Master* [SM], pois o facilitador principal (do último
 Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi minha capacidade de entender  necessidade do cliente como *Product Owner* [PO] e a apresentar o resutado do trabalho da equipe, traduzindo a linguagem técnica em linguagem comercial (venda da solução), destacado pontos fortes que interessam aos clientes e tratando os pontos que podem ser melhorados (PO).
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
-
-  					:arrow_right: **Compra/Aluguel de imóveis;**
+  					
+:arrow_right: **Compra/Aluguel de imóveis;**
    
 :arrow_right: **Abertura de empresas/comércios;**
 
@@ -175,9 +175,9 @@ Ao final do projeto, percebemos que **a solução poderia ser aproveitada para m
 
 Nessa linha, como **potenciais clientes** pagantes e com nossos dados tratados teríamos:
 
-	:heavy_check_mark: **Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
+:heavy_check_mark: **Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
 
-	:heavy_check_mark: **Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
+:heavy_check_mark: **Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
 
 :heavy_check_mark: **Empreendedores (Geomarketing):** quais negócios abrir na região;
 
@@ -190,3 +190,6 @@ Com a ajuda de ambientes de colaboração (*Google Colab e Jupyter*), consegui a
 Aprendi a utilizar as bibliotecas do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) listadas acima, com razoável velocidade.
 
 Assim, é esperado o aproveitamento deste aprendizado para **trabalho comercial técnico em TI, Ciência de Dados para fazer sentido do volume de dados atualmente produzido em todos os setores, bem como na a coordenação de equipes multidisciplianares, em múltiplos idiomas e com diversidade cultural.**
+
+The End.
+:arrow_up: [`code`](#code).
