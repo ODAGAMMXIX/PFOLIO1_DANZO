@@ -105,11 +105,9 @@ As bibliotecas mais importantes do *Python* foram:
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-Minha formação profissional facilitou a definição do MVP (*MINIMUM VIABLE PRODUCT*).
+Minha formação profissional facilitou a definição do MVP (*MINIMUM VIABLE PRODUCT*), com a visão de mercado e possibilidade jurídica da ferramenta.
 
-Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para fomentar o trabalho dos colegas que, por sua vez, implementavam  ferramentas descobertas  no contexto da aplicação.
-
-Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
+Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
 
 Nesse passo, a arquitetura ficou assim definida:
 ![](imgs/20211026-210335.png)
@@ -117,21 +115,21 @@ Nesse passo, a arquitetura ficou assim definida:
 
 ![](imgs/20211026-202145.png)
 
-Com nosso método de ***competting codes*** e com o curso extracurricuar que recebemos na FATEC, consegui chegar ao funcionamento da bibblioteca *Selenium*.
+Com nosso método denominado ***competing codes*** e com o curso extracurricuar sobre ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) que recebemos na FATEC, consegui chegar ao funcionamento da biblioteca ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white).
 
 ![](imgs/20211026-202416.png)
 
-Então, descobri os drivers que atuam conjuntamente com o *Selenium* para emular  ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade:
+Então, descobri os *drivers* que atuam conjuntamente com o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para emular ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade:
 
 ![](imgs/20211026-204342.png)
 
 Após, descobri que o *SqLite3* era o banco de dados mais simples para servir ao nosso *WebBot*, na função de mero repositório de dados:
 ![](imgs/20211026-204544.png)
 
-Conseguir implantar o *webdriver* e o *Selenium* para acessar o sítio da SSP-SP:
+Consegui implantar o *webdriver* e o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para acessar o sítio da SSP-SP:
 ![](imgs/20211026-204732.png)
 
-Mapeei os campos do sítio da SSP-SP para  que o *Selenium* pudesse atuar  de forma automatizada:
+Mapeei os campos do sítio da SSP-SP para  que o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) pudesse atuar  de forma automatizada:
 ![](imgs/20211026-204907.png)
 
 Enquanto isso, outro colega conseguiu tratar o arquivo para ser inserido no banco de dados:
