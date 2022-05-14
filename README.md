@@ -157,11 +157,11 @@ Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi 
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
-•	**Compra/Aluguel de imóveis; **
-•	**Abertura de empresas/comércios; **
-•	**Geomarketing na região;  **
-•	**Oportunidades de trabalho na região;  **
-•	**Prática esporte na região;  **
+U+27A1, U+FE0F •	**Compra/Aluguel de imóveis; **
+U+27A1, U+FE0F •	**Abertura de empresas/comércios; **
+U+27A1, U+FE0F •	**Geomarketing na região;  **
+U+27A1, U+FE0F •	**Oportunidades de trabalho na região;  **
+U+27A1, U+FE0F •	**Prática esporte na região;  **
 •	**Lazer (evento cultural, maratona *geek*, ou festa na região); ** 
 •	**Morador/Frequentador da região. **
 
