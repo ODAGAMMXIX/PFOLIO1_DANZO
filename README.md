@@ -1,10 +1,15 @@
-# PORTFOLIO - LIST OF ACADEMIC PROJECTS:
+# PORTFOLIO - LISTA DE PROJETOS ACADÊMICOS:
 
-### [PROJECT-SEMESTRE-01-2019.2 - *Python Web Scrapper - Public Safety Monitor*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+### [SEMESTRE-01-2019.2 - *Python Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
 
-[PROJECT-SEMESTRE-02-2020.1 - *Java Stand Alone GANTT Chart tool*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+[SEMESTRE-02-2020.1 - *Java Stand Alone - Gestor de Gráfico de GANTT*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
 
-[PROJECT-SEMESTRE-03-2020.2 - *Java Web App - Benefits According Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE) 
+[SEMESTRE-03-2020.2 - *Java Web App - Gamificação de Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE)
+
+[SEMESTRE-04-2021.1 - *Java-Oracle API para Recrutamento por Geolocalização et al*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
+[SEMESTRE-05-2021.2 - *___*]()
+[SEMESTRE-06-2022.1 - *___*]()
+
 
 
 ## ***FIRST PROJECT, SEMESTRE-01-2019.2 - Python WebBot - Scrapping - Public Safety Monitor***
