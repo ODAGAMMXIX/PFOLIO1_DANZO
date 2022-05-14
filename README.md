@@ -193,4 +193,4 @@ Assim, é esperado o aproveitamento deste aprendizado para **trabalho comercial 
 
 The End.
 :arrow_up: 
-Go Back Up [`up`](#python-sqlite3-web-scrapper---monitor-de-seguran%C3%A7a-p%C3%BAblica).
+[`Go Back Up`](#python-sqlite3-web-scrapper---monitor-de-seguran%C3%A7a-p%C3%BAblica).
