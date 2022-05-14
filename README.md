@@ -25,7 +25,7 @@ This portifolio is the result of academic projetcs based on the Learning by Proj
 For academic purposes, the description below will be delivered in Portuguese, though I am available to speak about this project in full English should you be interested in hiring me. Here, I acted as P.O. and second S.M. and R&D agent.
  
 
-###**I - RESUMO DO PROJETO.**
+### **I - RESUMO DO PROJETO.**
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnológicas para a efetiva entrega de uma aplicção funcionando. Decidimos por um Mapeador de Criminalidade ao Redor da FATEC.
 
@@ -43,11 +43,11 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
-1 - Escolha do usuário na página DANZO;​
+#1) Escolha do usuário na página DANZO;​
 ![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png  "Entrada")
 
 
-2 – Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
+#2) Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
 
 ![](imgs/20211026-205948.png)
 
@@ -60,9 +60,9 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 ![](imgs/20211026-210057.png)
 
 
-3 – Manuseio do arquivo obtido: criação de pasta local, renomeação;​
+#3) Manuseio do arquivo obtido: criação de pasta local, renomeação;​
 
-4 – Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD;​
+#4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD;​
 
 ![](imgs/20211026-210117.png)
 
