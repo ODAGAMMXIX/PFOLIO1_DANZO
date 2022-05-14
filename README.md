@@ -159,19 +159,19 @@ Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi 
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
-   :arrow_right: **Compra/Aluguel de imóveis;**
+   .:arrow_right: **Compra/Aluguel de imóveis;**
    
 :arrow_right: **Abertura de empresas/comércios;**
 
-:arrow_right: **Geomarketing na região;  **
+:arrow_right: **Geomarketing na região;**
 
-:arrow_right: **Oportunidades de trabalho na região;  **
+:arrow_right: **Oportunidades de trabalho na região;**
 
-:arrow_right: **Prática esporte na região;  **
+:arrow_right: **Prática esporte na região;**
 
-:arrow_right: **Lazer (evento cultural, maratona *geek*, ou festa na região); ** 
+:arrow_right: **Lazer (evento cultural, maratona *geek*, ou festa na região);** 
 
-:arrow_right: **Morador/Frequentador da região. **
+:arrow_right: **Morador/Frequentador da região.**
 
 Nessa linha, como **potenciais clientes** pagantes e com nossos dados tratados teríamos:
 
