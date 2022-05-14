@@ -157,23 +157,23 @@ Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi 
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
-:arrow_right: •	**Compra/Aluguel de imóveis; **
-U+27A1, U+FE0F •	**Abertura de empresas/comércios; **
-U+27A1, U+FE0F •	**Geomarketing na região;  **
-U+27A1, U+FE0F •	**Oportunidades de trabalho na região;  **
-U+27A1, U+FE0F •	**Prática esporte na região;  **
-•	**Lazer (evento cultural, maratona *geek*, ou festa na região); ** 
-•	**Morador/Frequentador da região. **
+:arrow_right: **Compra/Aluguel de imóveis; **
+:arrow_right: **Abertura de empresas/comércios; **
+:arrow_right: **Geomarketing na região;  **
+:arrow_right: **Oportunidades de trabalho na região;  **
+:arrow_right: **Prática esporte na região;  **
+:arrow_right: **Lazer (evento cultural, maratona *geek*, ou festa na região); ** 
+:arrow_right: **Morador/Frequentador da região. **
 
 Nessa linha, como **potenciais clientes** pagantes e com nossos dados tratados teríamos:
 
--**Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
+:heavy_check_mark: **Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
 
--**Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
+:heavy_check_mark: **Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
 
--**Empreendedores (Geomarketing):** quais negócios abrir na região;
+:heavy_check_mark: **Empreendedores (Geomarketing):** quais negócios abrir na região;
 
--**Empresas de *Robot Process Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época);
+:heavy_check_mark: **Empresas de *Robot Process Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época);
 
 No aspecto técnico, descobri grande habilidade de pesquisa e desenvolvimento (*R&D*), especialmente no idioma Inglês, capaz de encontrar rapidamente as ferramentas para servir à equipe e fomentar a composição de uma solução final.
 
