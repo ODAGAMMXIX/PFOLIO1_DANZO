@@ -14,7 +14,7 @@
 
 ***
 
-<h1 align="center">[Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública]</h1> #begining
+<h1 align="center">[Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública]</h1>
 
 	
 
@@ -192,4 +192,4 @@ Aprendi a utilizar as bibliotecas do ![Python](https://img.shields.io/badge/pyth
 Assim, é esperado o aproveitamento deste aprendizado para **trabalho comercial técnico em TI, Ciência de Dados para fazer sentido do volume de dados atualmente produzido em todos os setores, bem como na a coordenação de equipes multidisciplianares, em múltiplos idiomas e com diversidade cultural.**
 
 The End.
-:arrow_up: [`Go Up`](#begining).
+:arrow_up: [`Go Up`](#Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública).
