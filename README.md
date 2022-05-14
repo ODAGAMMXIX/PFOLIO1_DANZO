@@ -7,8 +7,10 @@
 [SEMESTRE-03-2020.2 - *Java Web App - Gamificação de Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE)
 
 [SEMESTRE-04-2021.1 - *Java-Oracle API para Recrutamento por Geolocalização et al*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
-[SEMESTRE-05-2021.2 - *___*]()
-[SEMESTRE-06-2022.1 - *___*]()
+
+[SEMESTRE-05-2021.2 - *Educalytics*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
+
+[SEMESTRE-06-2022.1 - *LGPD OPT-IN OPT-OUT ou ANÁLISE DE DADOS*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
 
 
 
