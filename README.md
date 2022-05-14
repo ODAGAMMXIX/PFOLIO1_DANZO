@@ -79,7 +79,7 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 ![Mapa de Calor](imgs/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
 
 
-### **II - TECNOLOGIAS**
+# **II - TECNOLOGIAS**
 
 Em fase embrionária de aprendizado, a equipe elegeu o ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) por ser linguagem de programação de alto nível (mais amigável ao programador).
 
@@ -100,7 +100,7 @@ As bibliotecas mais importantes do ![Python](https://img.shields.io/badge/python
 
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV(TAB) oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
 
-### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
+# **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
 Minha formação profissional facilitou a definição do MVP (*Minimum Viable Product*), com a visão de mercado e possibilidade jurídica da ferramenta.
 
@@ -147,7 +147,7 @@ Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **p
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
-### **IV - APRENDIZADOS EFETIVOS.**
+# **IV - APRENDIZADOS EFETIVOS.**
 
 Tivemos o primeiro contato com a *Metodologia Ágil* e com as ferramentas para acompanhamento do projeto: *Slack*, repositório *Git*.
 
@@ -157,8 +157,8 @@ Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi 
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
-:arrow_right: **Compra/Aluguel de imóveis; **
-:arrow_right: **Abertura de empresas/comércios; **
+	:arrow_right: **Compra/Aluguel de imóveis; **
+	:arrow_right: **Abertura de empresas/comércios; **
 :arrow_right: **Geomarketing na região;  **
 :arrow_right: **Oportunidades de trabalho na região;  **
 :arrow_right: **Prática esporte na região;  **
@@ -167,9 +167,9 @@ Ao final do projeto, percebemos que **a solução poderia ser aproveitada para m
 
 Nessa linha, como **potenciais clientes** pagantes e com nossos dados tratados teríamos:
 
-:heavy_check_mark: **Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
+	:heavy_check_mark: **Empresas de segurança:** poderiam definir uma demanda de vendas/colaboradores por região;  
 
-:heavy_check_mark: **Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
+	:heavy_check_mark: **Imobiliárias/Construtoras:** poderiam traçar o perfil de clientes para determinadas regiões;  
 
 :heavy_check_mark: **Empreendedores (Geomarketing):** quais negócios abrir na região;
 
