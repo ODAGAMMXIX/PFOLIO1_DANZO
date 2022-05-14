@@ -98,7 +98,7 @@ As bibliotecas mais importantes do ![Python](https://img.shields.io/badge/python
 
 - ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar aqueles com índice de criminalidade mensal.
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV(TAB) oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV(TAB) oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
