@@ -159,7 +159,7 @@ Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi 
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
-   .:arrow_right: **Compra/Aluguel de imóveis;**
+  					:arrow_right: **Compra/Aluguel de imóveis;**
    
 :arrow_right: **Abertura de empresas/comércios;**
 
