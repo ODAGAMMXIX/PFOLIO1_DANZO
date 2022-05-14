@@ -1,6 +1,6 @@
 # PORTFOLIO - LISTA DE PROJETOS ACADÊMICOS:
 
-### [SEMESTRE-01-2019.2 - *Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+## [SEMESTRE-01-2019.2 - *Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
 
 [SEMESTRE-02-2020.1 - *Java-MySQL Stand Alone App - Gráfico de GANTT para Gestores*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
 
@@ -85,19 +85,23 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 Em fase embrionária de aprendizado, a equipe elegeu o *Python*por ser linguagem de programação de alto nível (mais amigável ao programador).
 
-No contexto do *Python*, contamos com a orientação do Docente e muita pesquisa em fóruns virtuais  estrangeiros especializados para implementar blocos de códigos com propósito específico.
+No contexto do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), contamos com a orientação do Docente e muita pesquisa em fóruns virtuais  estrangeiros especializados para implementar blocos de códigos com propósito específico.
 
 As bibliotecas mais importantes do *Python* foram:
 
-- ***Selenium***: emulação de ações humanas para acessar o sitio da **Secretaria de Segurança Pública do Estado de São Paulo**, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
+- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white): emulação de ações humanas para acessar o sitio da **Secretaria de Segurança Pública do Estado de São Paulo**, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
 
-- ***Pandas***: agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "*Python*para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados. **Com meu conhecimento prévio na área jurídica, tonou-se mais fácil explicar conceitos e etender o que seria mais adequado demonstrar**.
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white): agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "*Python*para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados. **Com meu conhecimento prévio na área jurídica, tonou-se mais fácil explicar conceitos e etender o que seria mais adequado demonstrar**.
 
 	
 -  ***Folium***: facilitador de visualização dos dados em um mapa interativo; auxiliou na manipulação dos dados no mapa de calor, com o agrupamento das regiões segundo seus respectivos índices de criminalidade ao redor da Fatec.
-- ***Flask***:  Framework para *Python* utilizado para desenvolver aplicação web, escolhido pela simplicidade de configuração e rapidez no desenvolvimento, com curva de aprendizado mais curta (apresentado pelo Scrum Master).
+-  
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white):  Framework para *Python* utilizado para desenvolver aplicação web, escolhido pela simplicidade de configuração e rapidez no desenvolvimento, com curva de aprendizado mais curta (apresentado pelo Scrum Master).
 ![](imgs/20211122-201812.png)
+
 - ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar os gráficos mensais dos índice de criminalidade.
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ###**III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
