@@ -157,7 +157,7 @@ Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi 
 
 Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
 
-U+27A1, U+FE0F •	**Compra/Aluguel de imóveis; **
+:arrow_right: •	**Compra/Aluguel de imóveis; **
 U+27A1, U+FE0F •	**Abertura de empresas/comércios; **
 U+27A1, U+FE0F •	**Geomarketing na região;  **
 U+27A1, U+FE0F •	**Oportunidades de trabalho na região;  **
