@@ -13,9 +13,13 @@
 [SEMESTRE-06-2022.1 - *Python-MongoDB-LGPD opt-in opt-out ou Análise de Dados Eleitorais *](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
 
 
-
 ***
+<h1 align="center">
+
 ## ***[Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO)***
+	
+</h1>
+	
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
