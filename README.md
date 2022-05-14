@@ -95,17 +95,17 @@ As bibliotecas mais importantes do *Python* foram:
 
 	
 -  ***Folium***: facilitador de visualização dos dados em um mapa interativo; auxiliou na manipulação dos dados no mapa de calor, com o agrupamento das regiões segundo seus respectivos índices de criminalidade ao redor da Fatec.
--  
+
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white):  Framework para *Python* utilizado para desenvolver aplicação web, escolhido pela simplicidade de configuração e rapidez no desenvolvimento, com curva de aprendizado mais curta (apresentado pelo Scrum Master).
 ![](imgs/20211122-201812.png)
 
 - ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar os gráficos mensais dos índice de criminalidade.
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV/TAB oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
 
 ###**III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
-A definição do MVP (*MINIMUM VIABLE PRODUCT*) passou por um processo menos complexo devido à minha formação na área jurídica e profissional, tanto no público como no privado.
+Minha formação profissional facilitou a definição do MVP (*MINIMUM VIABLE PRODUCT*).
 
 Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para fomentar o trabalho dos colegas que, por sua vez, implementavam  ferramentas descobertas  no contexto da aplicação.
 
