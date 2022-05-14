@@ -43,11 +43,11 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
-# 1) Escolha do usuário na página DANZO;​
+### 1) Escolha do usuário na página DANZO;​
 ![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png  "Entrada")
 
 
-#2) Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
+### 2) Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo);
 
 ![](imgs/20211026-205948.png)
 
@@ -60,17 +60,17 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 ![](imgs/20211026-210057.png)
 
 
-#3) Manuseio do arquivo obtido: criação de pasta local, renomeação;​
+### 3) Manuseio do arquivo obtido: criação de pasta local, renomeação;​
 
-#4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD;​
+### 4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD;​
 
 ![](imgs/20211026-210117.png)
 
-5 – Inserção incremental em banco de dados *SqLite3*;​
+### 5) Inserção incremental em banco de dados *SqLite3*;​
 
-6 – Leitura do BD *SqLite3*;​
+### 6) Leitura do BD *SqLite3*;​
 
-7 – Apresentação dos dados: **mapa de calor e barras, segundo filtro escolhido pelo usuário**; ​
+### 7) Apresentação dos dados: **mapa de calor e barras, segundo filtro escolhido pelo usuário**; ​
 
 ![Fitro para Usuário Escolher](imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png  "Fitro para Usuário Escolher")
 
@@ -81,7 +81,7 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 ![Mapa de Calor](imgs/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
 
 
-###**II - TECNOLOGIAS**
+### **II - TECNOLOGIAS**
 
 Em fase embrionária de aprendizado, a equipe elegeu o *Python*por ser linguagem de programação de alto nível (mais amigável ao programador).
 
@@ -103,7 +103,7 @@ As bibliotecas mais importantes do *Python* foram:
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV/TAB oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
 
-###**III - CONTRIBUIÇÕES INDIVIDUAIS.**
+### **III - CONTRIBUIÇÕES INDIVIDUAIS.**
 
 Minha formação profissional facilitou a definição do MVP (*MINIMUM VIABLE PRODUCT*).
 
@@ -152,7 +152,7 @@ Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **p
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
-###**IV - APRENDIZADOS EFETIVOS.**
+### **IV - APRENDIZADOS EFETIVOS.**
 
 Tivemos o primeiro contato com a *Metodologia Ágil*, e com as ferramentas para acompanhamento do projeto: *Slack*, repositório no *Gitlab*.
 
