@@ -18,14 +18,14 @@
 
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-#### **i. ABOUT THIS PORTIFOLIO.**
+# **i. ABOUT THIS PORTIFOLIO.**
 
 This portifolio is the result of academic projetcs based on the Learning by Projects method.
 
 For academic purposes, the description below will be delivered in Portuguese, though I am available to speak about this project in full English should you be interested in hiring me. Here, I acted as P.O. and second S.M. and R&D agent.
  
 
-### **I - RESUMO DO PROJETO.**
+# **I - RESUMO DO PROJETO.**
 
 O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnológicas para a efetiva entrega de uma aplicção funcionando. Decidimos por um Mapeador de Criminalidade ao Redor da FATEC.
 
