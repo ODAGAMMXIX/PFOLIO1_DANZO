@@ -1,4 +1,4 @@
-## PORTFOLIO - LISTA DE PROJETOS ACADÊMICOS:
+## PORTFOLIO ACADÊMICO - PROJETOS INTEGRADORES:
 
 ## [SEMESTRE-01-2019.2 - *Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
 
