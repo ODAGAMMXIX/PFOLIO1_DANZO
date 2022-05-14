@@ -1,10 +1,10 @@
 # PORTFOLIO - LISTA DE PROJETOS ACADÊMICOS:
 
-### [SEMESTRE-01-2019.2 - *Python Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
+### [SEMESTRE-01-2019.2 - *Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública*](https://github.com/ODAGAMMXIX/PFOLIO1_DANZO) 
 
-[SEMESTRE-02-2020.1 - *Java Stand Alone - Gestor de Gráfico de GANTT*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
+[SEMESTRE-02-2020.1 - *Java-MySQL Stand Alone App - Gráfico de GANTT para Gestores*](https://github.com/ODAGAMMXIX/PFOLIO2_GANTT)
 
-[SEMESTRE-03-2020.2 - *Java Web App - Gamificação de Credit Score*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE)
+[SEMESTRE-03-2020.2 - *Java-Oracle - Gamificação, Monetização, Fidelização e Educação Financeira*](https://github.com/ODAGAMMXIX/PFOLIO3_VALCODE)
 
 [SEMESTRE-04-2021.1 - *Java-Oracle API para Recrutamento por Geolocalização et al*](https://github.com/ODAGAMMXIX/PFOLIO4_JOBNATION)
 
