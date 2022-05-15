@@ -75,7 +75,7 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 ![Fitro para Usuário Escolher](imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png  "Fitro para Usuário Escolher")
 
 <p align="center"> 
-![Gráfico de Barras 01](imgs/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png  "Gráfico de Barras 01")
+<imgs/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png  "Gráfico de Barras 01">
 </p>
 	
 ![](imgs/20211026-210136.png)
