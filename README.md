@@ -74,8 +74,11 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 ![Fitro para Usuário Escolher](imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png  "Fitro para Usuário Escolher")
 
+<p align="center"> 
+	
 ![Gráfico de Barras 01](imgs/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png  "Gráfico de Barras 01")
-
+</p>
+	
 ![](imgs/20211026-210136.png)
 
 ![Mapa de Calor](imgs/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png  "Mapa de Calor")
@@ -96,8 +99,12 @@ As bibliotecas mais importantes do ![Python](https://img.shields.io/badge/python
 -  ***Folium***: facilitador de visualização dos dados em um mapa interativo; auxiliou na manipulação dos dados no mapa de calor, com o agrupamento das regiões segundo seus respectivos índices de criminalidade ao redor da Fatec.
 
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white):  Framework para ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) utilizado para desenvolver aplicação web, escolhido pela simplicidade de configuração e rapidez no desenvolvimento, com *curva de aprendizado* mais curta (apresentado pelo *Scrum Master*).
-![](imgs/20211122-201812.png)
 
+<p align="center"> 
+	
+![](imgs/20211122-201812.png)
+</p>
+	
 - ***flask_googlecharts***: Biblioteca para geração de gráficos (uma das melhores do mercado à época), utilizado no  projeto para gerar aqueles com índice de criminalidade mensal.
 
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white): Pesistência dos dados lidos do arquivo CSV(TAB) oferecido pelo sítio da SSP-SP, pronto para futuras alterações.
@@ -109,31 +116,50 @@ Minha formação profissional facilitou a definição do MVP (*Minimum Viable Pr
 Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
 
 Nesse passo, a arquitetura ficou assim definida:
-![](imgs/20211026-210335.png)
+<p align="center"> 
+	![](imgs/20211026-210335.png)
+</p>
 
-
+<p align="center"> 
 ![](imgs/20211026-202145.png)
+</p>
 
 Com nosso método denominado ***competing codes*** e com o curso extracurricuar sobre ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) que recebemos na FATEC, consegui chegar ao funcionamento da biblioteca ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white).
 
+<p align="center"> 
 ![](imgs/20211026-202416.png)
-
+</p>
 Então, descobri os *drivers* que atuam conjuntamente com o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para emular ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade:
 
+<p align="center"> 
 ![](imgs/20211026-204342.png)
+</p>
 
 Após, descobri que o *SqLite3* era o banco de dados mais simples para servir ao nosso *WebBot*, na função de mero repositório de dados:
-![](imgs/20211026-204544.png)
 
+<p align="center"> 
+	![](imgs/20211026-204544.png)
+</p>
+	
 Consegui implantar o *webdriver* e o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para acessar o sítio da SSP-SP:
-![](imgs/20211026-204732.png)
+
+<p align="center"> 
+	![](imgs/20211026-204732.png)
+	
+</p>
 
 Mapeei os campos do sítio da SSP-SP para  que o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) pudesse atuar  de forma automatizada:
+
+<p align="center"> 
 ![](imgs/20211026-204907.png)
+</p>
 
 Enquanto isso, outro colega conseguiu tratar o arquivo para ser inserido no banco de dados:
+<p align="center"> 
 
-![](imgs/20211026-205128.png)
+	![](imgs/20211026-205128.png)
+</p>
+
 (Grande parte desta SPRINT foi utilizada para tentar solucionar esse problema: **embora o arquivo baixado viesse denominado de .CSV, o arquivo possui muitos TABS entre dos dados de forma que, nosso código *Python*  apresentava erros por buscar uma vírgula como delimitador**). 
 
 ![](imgs/20211026-205144.png)
@@ -142,10 +168,14 @@ Outra colega implantou tratamento de erros e limpeza de arquivos utilizados:
 ![](imgs/20211026-205241.png)
 
 Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **pesquisei a plotagem de mapa de calor. Ao final, os dois *competing codes* foram implantados**:
+
+<p align="center"> 
 ![](imgs/20211026-205450.png)
+</p>
 
+<p align="center"> 
 ![](imgs/20211026-205503.png)
-
+</p>
 
 Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seus requisitos com o sítio da SSP-SP.
 
