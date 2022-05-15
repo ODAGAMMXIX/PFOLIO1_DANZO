@@ -117,7 +117,7 @@ As bibliotecas mais importantes do ![Python](https://img.shields.io/badge/python
 
 Minha formação profissional facilitou a definição do MVP (*Minimum Viable Product*), com a visão de mercado e possibilidade jurídica da ferramenta.
 
-Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
+:axe: Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
 
 Nesse passo, a arquitetura ficou assim definida:
 <p align="center"> 
@@ -128,31 +128,31 @@ Nesse passo, a arquitetura ficou assim definida:
 <img src="imgs/20211026-202145.png">
 </p>
 
-Com nosso método denominado ***competing codes*** e com o curso extracurricuar sobre ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) que recebemos na FATEC, consegui chegar ao funcionamento da biblioteca ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white).
+:axe::axe: Com nosso método denominado ***competing codes*** e com o curso extracurricuar sobre ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) que recebemos na FATEC, consegui chegar ao funcionamento da biblioteca ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white).
 
 <p align="center"> 
 <img src="imgs/20211026-202416.png">
 </p>
-Então, descobri os *drivers* que atuam conjuntamente com o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para emular ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade:
+:axe::axe::axe: Então, descobri os *drivers* que atuam conjuntamente com o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para emular ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade:
 
 <p align="center"> 
 <img src="imgs/20211026-204342.png">
 </p>
 
-Após, descobri que o *SqLite3* era o banco de dados mais simples para servir ao nosso *WebBot*, na função de mero repositório de dados:
+:axe::axe::axe::axe: Após, descobri que o *SqLite3* era o banco de dados mais simples para servir ao nosso *WebBot*, na função de mero repositório de dados:
 
 <p align="center"> 
 	<img src="imgs/20211026-204544.png">
 </p>
 	
-Consegui implantar o *webdriver* e o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para acessar o sítio da SSP-SP:
+:axe::axe::axe::axe::axe: Consegui implantar o *webdriver* e o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para acessar o sítio da SSP-SP:
 
 <p align="center"> 
 	<img src="imgs/20211026-204732.png">
 	
 </p>
 
-Mapeei os campos do sítio da SSP-SP para  que o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) pudesse atuar  de forma automatizada:
+:axe::axe::axe::axe::axe::axe::axe:Mapeei os campos do sítio da SSP-SP para  que o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) pudesse atuar  de forma automatizada:
 
 <p align="center"> 
 <img src="imgs/20211026-204907.png">
@@ -187,11 +187,14 @@ Foi abandonado o *matplotlib* devido à falta de suporte e inadequação dos seu
 
 Tivemos o primeiro contato com a *Metodologia Ágil* e com as ferramentas para acompanhamento do projeto: *Slack*, repositório *Git*.
 
-Atuei como segundo *Scrum Master* [SM], pois o facilitador principal (do último semestre) também possuia carga horária assoberbada; assim, **realizávamos nossas *dailys* com a equipe, antes do início das aulas, na biblioteca**.
+<h3 align="center">SECOND SCRUM MASTER</h3>
 
-Com isso, comecei a perceber e a desenvolver habilidades de SM. Também percebi minha capacidade de entender  necessidade do cliente como *Product Owner* [PO] e a apresentar o resutado do trabalho da equipe, traduzindo a linguagem técnica em linguagem comercial (venda da solução), destacado pontos fortes que interessam aos clientes e tratando os pontos que podem ser melhorados (PO).
+Atuei como segundo *Scrum Master* [SM], pois o facilitador principal (do último semestre) também possuia carga horária assoberbada; assim, **realizávamos nossas *dailys* com a equipe, antes do início das aulas, na biblioteca**.Com isso, comecei a perceber e a desenvolver habilidades de SM. 
 
-Ao final do projeto, percebemos que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
+<h3 align="center">PRODUCT OWNER</h3>
+Também percebi minha capacidade de entender  necessidade do cliente como *Product Owner* [PO] e a apresentar o resutado do trabalho da equipe, traduzindo a linguagem técnica em linguagem comercial (venda da solução), destacado pontos fortes que interessam aos clientes e tratando os pontos que podem ser melhorados (PO).
+
+Ao final do projeto, listei a proposta comercial, uma vez verificado que **a solução poderia ser aproveitada para múltiplas finalidades *v.g.*:**
   					
 :arrow_right: **Compra/Aluguel de imóveis;**
    
@@ -216,6 +219,8 @@ Nessa linha, como **potenciais clientes** pagantes e com nossos dados tratados t
 :heavy_check_mark: **Empreendedores (Geomarketing):** quais negócios abrir na região;
 
 :heavy_check_mark: **Empresas de *Robot Process Automation* [RPA]:** que desejem copiar este modelo de WebBot em qualquer *website* que utilize a mesma arquitetura de *Front End* da SSP-SP (que não disponibilizava *Application programming interface* [API] à época);
+
+<h3 align="center">RESEARCH & DEVELOPMENT</h3>
 
 No aspecto técnico, descobri grande habilidade de pesquisa e desenvolvimento (*R&D*), especialmente no idioma Inglês, capaz de encontrar rapidamente as ferramentas para servir à equipe e fomentar a composição de uma solução final.
 
