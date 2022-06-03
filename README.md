@@ -16,7 +16,7 @@
 
 <h1 align="center">[Python-Sqlite3 Web Scrapper - Monitor de Segurança Pública]</h1>
 
-![Danzo Logo] <img src="https://i.imgur.com/9V0mPnm.png" width="400">
+<img src="https://i.imgur.com/9V0mPnm.png" width="400">
 
 # **i. ABOUT THIS PORTIFOLIO.**
 
