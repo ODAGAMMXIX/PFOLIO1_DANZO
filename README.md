@@ -49,9 +49,9 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>  
-	details summary > * { display: inline; }
- ![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png "Entrada")
+  	<summary>Click to expand!</summary>  
+	
+	![Entrada](imgs/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png "Entrada")
 </details>
 
 
