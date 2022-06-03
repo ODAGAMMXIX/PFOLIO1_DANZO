@@ -20,8 +20,6 @@
 <img src="https://i.imgur.com/9V0mPnm.png" width="400">
 </p>
 
-
-
 # **i. ABOUT THIS PORTIFOLIO.**
 
 This portifolio is the result of academic projetcs based on the Learning by Projects method.
