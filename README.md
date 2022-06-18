@@ -48,7 +48,7 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 **1) Escolha do usuário na página DANZO;** ​
 
 
-<details><summary>**2) Obtenção de dados do sítio Transparência SSP-SP;** (conforme telas abaixo)</summary>
+<details><summary> **2) Obtenção de dados do sítio Transparência SSP-SP;** (conforme telas abaixo)</summary>
 	<img src="imgs/20211026-205948.png" name="1">
 	<img src="imgs/20211026-210008.png" name="2">
 	<img src="imgs/20211026-210019.png" name="3">
