@@ -35,7 +35,11 @@ Houve dificuldades de natureza humana, estrutural e tecnológica. No primeiro se
 
 Com o suporte de alunos do último semestre na função de *Scrum Master*, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
 
-Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um WebBot que pudesse mostrar índices de criminalidade nas redondezas do *campus*. Ao final, **verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento** em qualquer região do Estado de São Paulo.
+Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um WebBot.
+
+**Desfio:** WebBot que mostre índices de criminalidade nas redondezas do *campus*. 
+
+Ao final, **verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento** em qualquer região do Estado de São Paulo.
 
 Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado respeitou a velocidade individual dos alunos.
 
