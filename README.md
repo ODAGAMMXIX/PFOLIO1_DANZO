@@ -122,7 +122,7 @@ Minha formação profissional facilitou a definição do MVP (*Minimum Viable Pr
 
 :axe: Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
 
-** Arquitetura**
+**Arquitetura**
 <details><summary>(Clique aqui)</summary>
 	<img src="imgs/20211026-210335.png" name="7">
         <img src="imgs/20211026-202145.png">
@@ -130,39 +130,39 @@ Minha formação profissional facilitou a definição do MVP (*Minimum Viable Pr
 
 :axe::axe: Com nosso método denominado ***competing codes*** e com o curso extracurricuar sobre ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) que recebemos na FATEC, consegui chegar ao funcionamento da biblioteca ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white).
 
-<details><summary>Selenium:</summary>
+<details><summary>Selenium.</summary>
 <img src="imgs/20211026-202416.png">
 </details>
 
-:axe::axe::axe: Então, descobri os *drivers* que atuam conjuntamente com o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para emular ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade:
+:axe::axe::axe: Então, descobri os *drivers* que atuam conjuntamente com o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para emular ação humana. Elegemos o *webdriver* do Googe Chrome, devido à capilaridade.
 
 
-<details><summary>Webdriver:</summary>
+<details><summary>Webdriver.</summary>
 <img src="imgs/20211026-204342.png">
 </details>
 
 :axe::axe::axe::axe: Após, descobri que o *SqLite3* era o banco de dados mais simples para servir ao nosso *WebBot*, na função de mero repositório de dados:
 
-<details><summary>SqLite3:</summary>
+<details><summary>SqLite3.</summary>
 <img src="imgs/20211026-204544.png">
 </details>
 
 	
-:axe::axe::axe::axe::axe: Consegui implantar o *webdriver* e o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para acessar o sítio da SSP-SP:
+:axe::axe::axe::axe::axe: Consegui implantar o *webdriver* e o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) para acessar o sítio da SSP-SP.
 
-<details><summary>SSP-SP:</summary>
+<details><summary>Emulação do acesso ao sítio da SSP-SP</summary>
 <img src="imgs/20211026-204732.png">
 </details>
 
-:axe::axe::axe::axe::axe::axe::axe:Mapeei os campos do sítio da SSP-SP para  que o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) pudesse atuar  de forma automatizada:
+:axe::axe::axe::axe::axe::axe::axe:Mapeei os campos do sítio da SSP-SP para  que o ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) pudesse atuar  de forma automatizada.
 
-<details><summary>Automação:</summary>
+<details><summary>Automação.</summary>
 <img src="imgs/20211026-204907.png">
 </details>
 
 Enquanto isso, outro colega conseguiu tratar o arquivo para ser inserido no banco de dados:
 
-<details><summary>Inserção BD:</summary>
+<details><summary>Inserção BD.</summary>
 <img src="imgs/20211026-205128.png">
 </details>
 
@@ -177,13 +177,13 @@ Enquanto isso, outro colega conseguiu tratar o arquivo para ser inserido no banc
 
 Outra colega implantou tratamento de erros e limpeza de arquivos utilizados:
 
-<details><summary>Tratamento de erros:</summary>
+<details><summary>Tratamento de erros.</summary>
 <img src="imgs/20211026-205241.png">
 </details>
 
-Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **pesquisei a plotagem de mapa de calor. Ao final, os dois *competing codes* foram implantados**:
+Tínhamos a expectativa de apenas mostrar gráficos simples e paralelamente, **pesquisei a plotagem de mapa de calor. Ao final, os dois *competing codes* foram implantados**.
 
-<details><summary>Plotagem:</summary>
+<details><summary>Plotagem.</summary>
 <img src="imgs/20211026-205450.png">
 <img src="imgs/20211026-205503.png">
 </details>
