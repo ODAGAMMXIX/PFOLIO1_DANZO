@@ -37,7 +37,7 @@ Com o suporte de alunos do último semestre na função de *Scrum Master*, os me
 
 Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um WebBot.
 
-**Desfio:** WebBot que mostre índices de criminalidade nas redondezas do *campus*. 
+**Desafio:** Criar um WebBot que mostre índices de criminalidade nas redondezas do *campus*. 
 
 Ao final, **verificamos a possibilidade de comercialização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento** em qualquer região do Estado de São Paulo.
 
