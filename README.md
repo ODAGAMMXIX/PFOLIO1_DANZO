@@ -45,9 +45,9 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
-**1) Escolha do usuário na página DANZO;** ​
+**1) Escolha do usuário na página DANZO (Filtro);** ​
 
-<details><summary>![Fitro para Usuário Escolher]</summary>
+<details><summary>Clique aqui</summary>
 	<img src="imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png" name="1">
 </details>
 
