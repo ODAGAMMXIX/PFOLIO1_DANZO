@@ -45,7 +45,7 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
-1) Escolha do usuário na página DANZO;​
+**1) Escolha do usuário na página DANZO;**​
 
 
 <details><summary>2) Obtenção de dados do sítio Transparência SSP-SP; (conforme telas abaixo)</summary>
