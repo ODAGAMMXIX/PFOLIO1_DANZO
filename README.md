@@ -29,7 +29,7 @@ For academic purposes, the description below will be delivered in Portuguese, th
 
 # **I - RESUMO DO PROJETO.**
 
-O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnológicas para a efetiva entrega de uma aplicção funcionando. Decidimos por um Mapeador de Criminalidade ao Redor da FATEC.
+O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnológicas para a efetiva entrega de uma aplicação funcionando. Decidimos por um Mapeador de Criminalidade ao Redor da FATEC.
 
 Houve dificuldades de natureza humana, estrutural e tecnológica. No primeiro semestre, novos colegas e professores, com as limitações de conexão de Internet e de hardware, conhecendo novo vocabulário (neologismos e nomes de artefatos e ferramentas), bem a Metodologia Ágil.
 
