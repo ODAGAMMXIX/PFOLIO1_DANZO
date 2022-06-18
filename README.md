@@ -45,13 +45,15 @@ Nesse processo, estudamos e aprendemos a respeito de diversas ferramentas e bibl
 
 Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
-**1) Escolha do usuário na página DANZO (Filtro);** ​
+**1) Escolha do usuário na página DANZO (Filtro).** ​
 
-<details><summary>Clique aqui</summary>
+<details><summary>(Clique aqui)</summary>
 	<img src="imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png" name="1">
 </details>
 
-<details><summary> **2) Obtenção de dados do sítio Transparência SSP-SP;** (conforme telas abaixo)</summary>
+**2) Obtenção de dados do sítio Transparência SSP-SP.** (conforme telas abaixo)
+
+<details><summary>(Clique aqui)</summary>
 	<img src="imgs/20211026-205948.png" name="1">
 	<img src="imgs/20211026-210008.png" name="2">
 	<img src="imgs/20211026-210019.png" name="3">
@@ -60,23 +62,30 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 </details>
 
 
-3) Manuseio do arquivo obtido: criação de pasta local, renomeação;​
+**3) Manuseio do arquivo obtido: criação de pasta local.** (renomeação).​
 
-<details><summary>4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD;​</summary><img src="imgs/20211026-210117.png" name="7"></details>
 
-5) Inserção incremental em banco de dados ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white);​
+**4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD.**
 
-6) Leitura do BD ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white);​
+<details><summary>(Clique aqui)​</summary><img src="imgs/20211026-210117.png" name="7"></details>
 
-<details><summary> 7) Apresentação dos dados: Filtro escolhido pelo usuário; ​</summary>
+**5) Inserção incremental em banco de dados** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white);​
+
+**6) Leitura do BD.** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white);​
+
+**7) Apresentação dos dados: Filtro escolhido pelo usuário.**
+
+<details><summary> (Clique aqui) ​</summary>
 	<img src="imgs/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png" name="8">
         <h3 align="center">Fitro para Usuário Escolher</h3></details>
 	
-<details><summary> 7.1) Apresentação dos dados: Gráfico de barras; </summary>
+**7.1) Apresentação dos dados: Gráfico de barras.**	
+<details><summary> (Clique aqui) </summary>
 	<img src="imgs/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png" name="9">
 	<h3 align="center">Gráfico de Barras 01</h3></details>
-	
-<details><summary> 7.2) Apresentação dos dados: Mapa de calor</summary>
+
+**7.2) Apresentação dos dados: Mapa de calor.**
+<details><summary> (Clique aqui) </summary>
 	<img src="imgs/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png" name="10">
 	<h3 align="center">Mapa de Calor</h3></details>
 
