@@ -63,7 +63,9 @@ Ao final, o WebBot foi capaz de realizar as seguintes tarefas:
 
 
 **3) Manuseio do arquivo obtido: criação de pasta local.** (renomeação).​
-
+<details><summary>(Clique aqui)</summary>
+Screenshot from 2022-06-18 12-41-19.png
+</details>
 
 **4) Tratamento de dados: Leitura do arquivo obtido, coluna por coluna (LISTAS), para  inserção em BD.**
 
@@ -120,7 +122,8 @@ Minha formação profissional facilitou a definição do MVP (*Minimum Viable Pr
 
 :axe: Como um agente de Pesquisa e Desenvolvimento (*R&D*), realizei a pesquisa em língua estrangeira para desenhar a arquitetura do sistema e fomentar o trabalho dos colegas que, então, implementavam o código. Foi o caso do *Selenium e webdriver, Pandas, SqLite3*.
 
-<details><summary>Nesse passo, a arquitetura ficou assim definida:</summary>
+** Arquitetura**
+<details><summary>(Clique aqui)</summary>
 	<img src="imgs/20211026-210335.png" name="7">
         <img src="imgs/20211026-202145.png">
 </details>
